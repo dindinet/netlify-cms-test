@@ -31,7 +31,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: "pages"
     label: "Pages"
     files:
-      - file: "content/_index.md"
+      - file: "site/content/_index.md"
         label: "Home Page"
         name: "home"
         fields:
@@ -52,7 +52,7 @@ collections: # A list of collections the CMS should be able to edit
               {label: "SubHeading", name: "subheading", widget: "text"},
               {label: "Possible", name: "possible", widget: "markdown"}]}
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "content/contact/index.md"
+      - file: "site/content/contact/index.md"
         label: "Contact Page"
         name: "contact"
         fields:
@@ -71,7 +71,7 @@ collections: # A list of collections the CMS should be able to edit
               - label: Text
                 name: text
                 widget: "text"
-      - file: "content/get-started/index.md"
+      - file: "site/content/get-started/index.md"
         label: "Get Started"
         name: "get-started"
         fields:
@@ -81,7 +81,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Subtitle, name: subtitle, widget: "string"}
           - {label: Image, name: image, widget: "image"}
           - {label: Body, name: body, widget: "markdown"}
-      - file: "content/recent-work/index.md"
+      - file: "site/content/recent-work/index.md"
         label: "Recent work"
         name: "recent-work"
         fields:
@@ -91,7 +91,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Subtitle, name: subtitle, widget: "string"}
           - {label: Image, name: image, widget: "image"}
           - {label: Body, name: body, widget: "markdown"}
-      - file: "content/why-cloud-hosted/index.md"
+      - file: "site/content/why-cloud-hosted/index.md"
         label: "Why Cloud Hosted"
         name: "why-cloud-hosted"
         fields:

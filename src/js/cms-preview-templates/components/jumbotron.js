@@ -6,7 +6,7 @@ export default class Jumbotron extends React.Component {
     return <div>
 <section id="fp-hero" class="hero is-medium" style={{
     backgroundImage: image && `url(${image})`
-  }}>
+  }} style="background-size: cover; background-position: center center;">
   <div class="hero-body">
      <div class="container has-text-centered">
    <h2 class="is-size-1">{ title }</h2>

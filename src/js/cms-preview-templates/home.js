@@ -8,7 +8,8 @@ export default class HomePreview extends React.Component {
     const {entry, getAsset} = this.props;
     let image = getAsset(entry.getIn(["data", "image"]));
    return <div>
-            <img src='{ getAsset(entry.getIn(["data", "image"]))}' />
+     <Jumbotron image={entry.getIn(["data", "image"])} title={entry.getIn(["data", "blurb", "title"])} subtitle={entry.getIn(["data", "blurb",  "subtitle"])} subtitle={entry.getIn(["data", "blurb",  "text"])}/>
+            
             </div>
    }
 }

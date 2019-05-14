@@ -1,7 +1,7 @@
 import React from "react";
 //import format from "date-fns/format";
 
-//import Jumbotron from "./components/jumbotron";
+import Jumbotron from "./components/jumbotron";
 //var React = require('react')
 export default class HomePreview extends React.Component {
   render() {

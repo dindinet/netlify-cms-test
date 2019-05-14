@@ -46,7 +46,7 @@ export default class HomePreview extends React.Component {
     </div>
 </section>
 <div id="fp-content">{ widgetFor("body") }</div>
-<div id="fp-content">{ widgetFor("image") }</div>      
+<div id="fp-imagetest">{ widgetFor("image") }</div>      
 </div>
    }
 }

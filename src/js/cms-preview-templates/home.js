@@ -5,7 +5,7 @@ import React from "react";
 //var React = require('react')
 export default class HomePreview extends React.Component {
   render() {
-    const {entry, getAsset} = this.props;
+    const {entry, widgetFor, getAsset} = this.props;
     let image = getAsset(entry.getIn(["data", "image"]));
    return <div>
      <section id="fp-hero" class="hero is-medium" style={{
@@ -45,7 +45,7 @@ export default class HomePreview extends React.Component {
   </div>
     </div>
 </section>
-<div id="fp-content">dangerouslySetInnerHTML={{ __html: entry.getIn(["data", "body"]) }}</div>     
+<div id="fp-content">{ widgetFor("body") }</div>     
 </div>
    }
 }

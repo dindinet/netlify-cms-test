@@ -32,7 +32,20 @@ export default class HomePreview extends React.Component {
     </div>)}     
   </div>
     </div>
-</section>     
+</section>
+<section id="fp-possibilities">
+    <div class="container">
+  <div class="columns">
+      {(entry.getIn(["data","possibilities"]) || []).map((possibility, index) => <div class="column"  key={index}>
+       <h3 class="is-size-3 is-uppercase">{possibility.get("heading")}</h3>
+        <h4 class="is-size-4 is-lowercase">{possibility.get("subheading")}</h4>
+        <p>{possibility.get("possible")}</p>
+    </div>)} 
+
+  </div>
+    </div>
+</section>
+<div id="fp-content">{entry.getIn(["data", "text"])} </div>     
 </div>
    }
 }

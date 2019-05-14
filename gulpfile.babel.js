@@ -32,11 +32,11 @@ gulp.task("build-preview", ["css", "js", "hugo-preview"]);
 
 gulp.task("css", () => (
   gulp.src("./src/css/styles.css")
-    .pipe(postcss([
-      cssImport({from: "./src/css/styles.css"}),
-      cssnext(),
-      cssnano(),
-    ]))
+    //.pipe(postcss([
+    //  cssImport({from: "./src/css/styles.css"}),
+    //  cssnext(),
+    //  cssnano(),
+    //]))
     .pipe(gulp.dest("./dist/css"))
     .pipe(browserSync.stream())
 ));

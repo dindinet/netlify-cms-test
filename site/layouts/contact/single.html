@@ -1,0 +1,38 @@
+{{ define "head" }}
+    
+{{ end }}
+
+{{ define "header" }}
+
+{{ end }}
+
+{{ define "main" }}
+<section id="fp-hero" class="hero is-medium" style="background-image:url('{{ .Params.image }}');background-size: cover; background-position: center center;">
+    <div class="xhero-body">
+       <div class="container has-text-centered">
+     <h2 class="is-size-1">{{ .Params.heading }}</h2>
+       </div>
+     </div>
+   </section>
+ <section id="contact-details">
+   <table id="contact-table">
+      {{ range .Site.Data.contact.modes }}
+      <tr >
+      <td class="is-size-3 has-text-weight-bold">{{ .mode }}</td><td class="is-size-5">{{ .data }}</td>
+    </tr>
+      {{ end }}
+   </table>
+ </section>
+{{ end }}
+
+{{ define "more" }}
+
+{{ end }}
+
+{{ define "footer" }}
+ 
+{{ end }}
+
+{{ define "foot" }}
+  
+{{ end }}

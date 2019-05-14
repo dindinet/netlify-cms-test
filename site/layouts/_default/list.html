@@ -1,16 +1,26 @@
+{{ define "head" }}
+    
+{{ end }}
+
+{{ define "header" }}
+ 
+{{ end }}
+
 {{ define "main" }}
+<ul>
+    {{ range .Pages }}
+        <li>
+            <a href="{{.Permalink}}">{{.Params.ptype}} {{.Params.location}} {{.Params.town}}</a><br/>
+        </li>
+    {{ end }}
+ </ul>
 
-{{ partial "jumbotron" (dict "imageUrl" "/img/blog-index.jpg" "title" "Latest stories") }}
+{{ end }}
 
-<div class="mw7 center">
-  <ul class="flex-ns flex-wrap mhn1-ns pa3">
-      {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
-          <div class="w-50-ns ph1-ns flex">
-            {{ .Render "li"}}
-          </div>
-      {{ end }}
-  </ul>
-  {{ partial "pagination" . }}
-</div>
+{{ define "more" }}
 
-{{end}}
+{{ end }}
+
+{{ define "footer" }}
+ 
+{{ end }}

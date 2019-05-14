@@ -1,0 +1,58 @@
+{{ define "head" }}
+    
+{{ end }}
+
+{{ define "header" }}
+
+{{ end }}
+
+{{ define "main" }}
+<section id="fp-hero" class="hero is-medium" style="background-image:url('{{ .Params.image }}');background-size: cover; background-position: center center;">
+    <div class="xhero-body">
+       <div class="container has-text-centered">
+        <h1 class="is-size-1">{{ .Params.heading }}</h1>
+       </div>
+     </div>
+   </section>
+ <section id="customersites">
+  
+   {{ range $i, $customer := .Site.Data.customersites.sites }}
+   
+   <div class="columns">
+      {{ if modBool $i 2 }}
+   <div class="column is-one-third">
+      <img src="{{ $customer.image }}" />
+   </div>
+   <div class="column is-two-thirds"> 
+     <h4>{{ $customer.site }}</h4>
+     <p>{{ $customer.blurb }}</p>
+    </div>
+    {{ else }}
+    <div class="column is-two-thirds"> 
+        <h4>{{ $customer.site }}</h4>
+        <p>{{ $customer.blurb }}</p>
+       </div>
+       <div class="column is-one-third">
+          <img src="{{ $customer.image }}" />
+       </div>
+
+    {{ end }}
+
+</div> 
+  {{end}}
+</section>
+{{ end }}
+
+
+
+{{ define "more" }}
+
+{{ end }}
+
+{{ define "footer" }}
+ 
+{{ end }}
+
+{{ define "foot" }}
+  
+{{ end }}

@@ -1,0 +1,11 @@
+static:
+  disadvantages:
+    - Extra functionality added using a microservice
+  advantages:
+    - Fast page loads for improved user experience. Satisfied visitors reward you with higher engagement
+    - Site owners can manage web content
+    - Secure and safe from attack. The CMS is not hosted with the public facing website.
+    - Security and scaling are built-in at no extra cost
+    - Automatic backups
+    - A full history of all edits is stored. (Roll back to a previous version of your website in a couple of clicks.)
+    - Microservices are the accepted way to add functionality

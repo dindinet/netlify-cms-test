@@ -1,0 +1,66 @@
+{{ define "head" }}
+    
+{{ end }}
+
+{{ define "header" }}
+
+{{ end }}
+
+{{ define "main" }}
+<section id="fp-hero" class="hero is-medium" style="background-image:url('{{ .Params.image }}');background-size: cover; background-position: center center;">
+    <div class="xhero-body">
+       <div class="container has-text-centered">
+     <h2 class="is-size-1">{{ .Params.heading }}</h2>
+       </div>
+     </div>
+   </section>
+<section id="why-cloud-hosted">
+{{ .Content }}
+<div class="columns">
+  <div class="column is-half">
+<h3>Static</h3>
+<h4>Advantages</h4>
+<ul>
+{{ range .Site.Data.static.static.advantages }}
+<li>{{ . }}</li>
+{{ end }}
+</ul>
+<h4>Disadvantages</h4>
+<ul>
+{{ range .Site.Data.static.static.disadvantages }}
+<li>{{ . }}</li>
+{{ end }}
+</ul>
+</div>
+<div class="column is-half">
+    <h3>Dynamic</h3>
+    <h4>Advantages</h4>
+    <ul>
+    {{ range .Site.Data.dynamic.dynamic.advantages }}
+    <li>{{ . }}</li>
+    {{ end }}
+    </ul>
+    <h4>Disadvantages</h4>
+<ul>
+{{ range .Site.Data.dynamic.dynamic.disadvantages }}
+<li>{{ . }}</li>
+{{ end }}
+</ul>
+
+</div>
+</div>
+
+     </section>
+{{ end }}
+
+{{ define "more" }}
+
+{{ end }}
+
+{{ define "footer" }}
+ 
+{{ end }}
+
+{{ define "foot" }}
+  
+{{ end }}

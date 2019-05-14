@@ -1,0 +1,60 @@
+{{ define "head" }}
+    
+{{ end }}
+
+{{ define "header" }}
+{{ partial "nav.html" . }}
+<section id="fp-hero" class="hero is-medium" style="background-image:url('{{ .Params.image }}');background-size: cover; background-position: center center;">
+  <div class="hero-body">
+     <div class="container has-text-centered">
+   <h2 class="is-size-1">{{ .Params.blurb.heading }}</h2>
+   <h3 class="is-size-2">{{ .Params.blurb.subheading }}</h3>
+   <h4 class="is-size-3">{{ .Params.blurb.text }}</h4>
+     </div>
+   </div>
+ </section>
+{{ end }}
+
+{{ define "main" }}
+<section id="fp-reasons">
+    <div class="container">
+  <div class="columns">
+      {{ range .Params.reasons }}
+    <div class="column">
+       <h3 class="is-size-3 is-uppercase">{{ .heading }}</h3>
+        <h4 class="is-size-4 is-lowercase">{{ .subheading }}</h4>
+        <ul>
+        {{ range .benefits }}
+            <li>{{ .benefit }}</li>
+        {{end}}
+        </ul>
+    </div>
+      {{end}}
+      
+  </div>
+    </div>
+</section>
+<section id="fp-possibilities">
+    <div class="container">
+  <div class="columns">
+      {{ range .Params.possibilities }}
+    <div class="column">
+       <h3 class="is-size-3 is-uppercase">{{ .heading }}</h3>
+        <h4 class="is-size-4 is-lowercase">{{ .subheading }}</h4>
+        <p>{{ .possible }}</p>
+    </div>
+      {{end}}
+  </div>
+    </div>
+</section>
+<div id="fp-content">{{ .Content }} </div>
+{{ end }}
+
+{{ define "more"}}
+
+{{ end }}
+
+{{ define "footer" }}
+ 
+{{ end }}
+

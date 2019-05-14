@@ -1,0 +1,11 @@
+dynamic:
+  advantages:
+    - Unique content served to individual logged-in users 
+    - Content updates are available to be served in real time
+    - Site owners can manage content
+    - One click install
+  disadvantages:
+    - Prone to attacks as the database and CMS are hosted with the website
+    - Security has to be constantly managed
+    - Expensive and complicated to scale
+    - Easy to Extend badly. There is a plugin for that! as more plugins are added to a WordPress install more time is required for pages to load and more targets for hackers.

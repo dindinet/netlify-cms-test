@@ -1,9 +1,36 @@
-<!doctype html>
-<html lang="en">
-  {{ partial "head" . }}
-  <body class="sans-serif">
-    {{ partial "nav" . }}
-    {{ block "main" . }}{{ end }} 
-    {{ partial "footer" . }} 
-  </body>
+<!DOCTYPE html>
+<html>
+<head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>{{ .Title }}</title>
+      <link rel="shortcut icon" href="/favicon.ico" />
+      <link rel="stylesheet" href="/css/styles.css">
+
+    {{ block "head" . }}
+        
+    {{ end }}
+</head>
+<body class="{{ .Permalink }}">
+    {{ block "header" . }}
+      {{ partial "nav.html" . }}
+    {{ end }}
+    <main>
+    {{ block "main" . }}
+      {{ .Content }}
+    {{ end }}
+    </main>
+
+    {{ block "more" . }}
+
+    {{ end }}
+    
+    {{ block "footer" . }}
+      {{ partial "footer.html" }}
+    {{ end }}
+    {{ block "foot" . }}
+      
+      
+    {{ end }}
+</body>
 </html>

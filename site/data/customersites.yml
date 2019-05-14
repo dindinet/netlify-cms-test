@@ -1,0 +1,13 @@
+sites:
+- site: shamayoga.org.uk
+  url:  https://www.shamayoga.org.uk
+  image: https://res.cloudinary.com/dklongley/image/upload/w_472/v1556740481/shama.jpg
+  blurb: Steve of Shamayoga wanted a website that reflected his personality but was also easy for him to manage. The site features an interesting menu system and a bespoke CMS (Content Management System) with which Steve and his team can manage every part of the site. The Shamayoga site is hosted in multiple data centres. The included SSL certificate ensures that browsers and search engines alike treat the site as a first class citizen.
+- site: clarity-strategies.com
+  url: https://www.clarity-strategies.com
+  image: https://res.cloudinary.com/dklongley/image/upload/w_472/v1556740479/clarity.jpg
+  blurb: Nick Smillie, the MD of Clarity Strategies Ltd, was very clear about the market he needed to engage with for his Inward Investment Consultancy services. He wanted a website that would allow him to blog extensively without the need to call for technical assistance. The site is hosted on Google's cloud and uses the blogger platform for publishing posts. A future project will see the Clarity Strategies site transferred completely onto the distributed cloud and the addition of a bespoke CMS.
+- site: propertycostablancaspain.com
+  url: https://www.propertycostablancaspain.com
+  image: https://res.cloudinary.com/dklongley/image/upload/w_472/v1556740483/pcbs.jpg
+  blurb: propertycostablancaspain.com is one of a number of real estate portals I have developed and implemented for a group of estate agents in Spain. The property listings are stored in a cloud hosted NoSQL database and are managed using a bespoke CMS (Content Management System). The website is built using HUGO an extremely fast static site builder and hosted in the cloud distributed to multiple data centres. Ongoing monthly costs for hosting are a fraction of what they paid for their previous system.

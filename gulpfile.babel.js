@@ -31,9 +31,9 @@ gulp.task("build", ["css", "js", "hugo"]);
 gulp.task("build-preview", ["css", "js", "hugo-preview"]);
 
 gulp.task("css", () => (
-  gulp.src("./src/css/*.css")
+  gulp.src("./src/css/styles.css")
     .pipe(postcss([
-      cssImport({from: "./src/css/main.css"}),
+      cssImport({from: "./src/css/styles.css"}),
       cssnext(),
       cssnano(),
     ]))

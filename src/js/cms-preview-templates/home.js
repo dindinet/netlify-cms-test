@@ -45,7 +45,7 @@ export default class HomePreview extends React.Component {
   </div>
     </div>
 </section>
-<div id="fp-content">{entry.getIn(["data", "body"])} </div>     
+<div id="fp-content">dangerouslySetInnerHTML={{ __html: entry.getIn(["data", "body"]) }}</div>     
 </div>
    }
 }

@@ -26,11 +26,10 @@ export default class HomePreview extends React.Component {
        <h3 class="is-size-3 is-uppercase">{reason.get("heading")}</h3>
         <h4 class="is-size-4 is-lowercase">{reason.get("subheading")}</h4>
         <ul>
-       {(entry.getIn(["reason","benefits"]) || []).map((benefit, index) =>
+       {(reason.get("benefits") || []).map((benefit, index) =>
             <li key={index}>{benefit.get("benefit")}</li>)}
         </ul>
-    </div>)}
-     
+    </div>)}     
   </div>
     </div>
 </section>     

@@ -3,8 +3,8 @@ title: Homepage
 subtitle: The page where I live
 image: 'https://res.cloudinary.com/dklongley/image/upload/o_100/v1556539856/chart.jpg'
 blurb:
-  heading: Cloud Hosted Static Websites Dimwit
-  subheading: created and managed by monkies
+  heading: Cloud Hosted Static Websites
+  subheading: 'created and managed '
   text: by experts
 reasons:
   - benefits:

@@ -22,7 +22,6 @@ export default class HomePreview extends React.Component {
  <section id="fp-reasons">
     <div class="container">
   <div class="columns">
-      {{ range .Params.reasons }}
     {(entry.getIn(["data","reasons"]) || []).map((reason, index) => <div className="column" key={index}>
        <h3 class="is-size-3 is-uppercase">{reason.get("heading")}</h3>
         <h4 class="is-size-4 is-lowercase">{reason.get("subheading")}</h4>

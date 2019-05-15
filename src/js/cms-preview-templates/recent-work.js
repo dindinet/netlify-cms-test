@@ -13,7 +13,7 @@ export default class RecentWorkPreview extends React.Component {
   }}>
   <div class="hero-body">
   <div class="container has-text-centered">
-   <h2 class="is-size-1">{entry.getIn(["data", "blurb", "heading"])}</h2>
+   <h2 class="is-size-1">{entry.getIn(["data", "heading"])}</h2>
    </div>
    </div>
  </section> 

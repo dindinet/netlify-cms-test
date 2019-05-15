@@ -1,0 +1,33 @@
+<div class="columns">
+    <div class="column is-half">
+  <h3>Static</h3>
+  <h4>Advantages</h4>
+  <ul>
+  {{ range .Site.Data.static.static.advantages }}
+  <li>{{ . }}</li>
+  {{ end }}
+  </ul>
+  <h4>Disadvantages</h4>
+  <ul>
+  {{ range .Site.Data.static.static.disadvantages }}
+  <li>{{ . }}</li>
+  {{ end }}
+  </ul>
+  </div>
+  <div class="column is-half">
+      <h3>Dynamic</h3>
+      <h4>Advantages</h4>
+      <ul>
+      {{ range .Site.Data.dynamic.dynamic.advantages }}
+      <li>{{ . }}</li>
+      {{ end }}
+      </ul>
+      <h4>Disadvantages</h4>
+  <ul>
+  {{ range .Site.Data.dynamic.dynamic.disadvantages }}
+  <li>{{ . }}</li>
+  {{ end }}
+  </ul>
+  
+  </div>
+  </div>

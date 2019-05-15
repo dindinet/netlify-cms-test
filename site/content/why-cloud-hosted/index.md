@@ -2,7 +2,29 @@
 title: Why Cloud Hosted	
 heading: Why Cloud Hosted
 image: 'https://res.cloudinary.com/dklongley/image/upload/v1556720517/chart.jpg'
-type: why-cloud-hosted	
+type: why-cloud-hosted
+static:
+  disadvantages:
+    - Extra functionality added using a microservice
+  advantages:
+    - Fast page loads for improved user experience. Satisfied visitors reward you with higher engagement
+    - Site owners can manage web content
+    - Secure and safe from attack. The CMS is not hosted with the public facing website.
+    - Security and scaling are built-in at no extra cost
+    - Automatic backups
+    - A full history of all edits is stored. (Roll back to a previous version of your website in a couple of clicks.)
+    - Microservices are the accepted way to add functionality
+dynamic:
+  advantages:
+    - Unique content served to individual logged-in users 
+    - Content updates are available to be served in real time
+    - Site owners can manage content
+    - One click install
+  disadvantages:
+    - Prone to attacks as the database and CMS are hosted with the website
+    - Security has to be constantly managed
+    - Expensive and complicated to scale
+    - Easy to Extend badly. There is a plugin for that! as more plugins are added to a WordPress install more time is required for pages to load and more targets for hackers.	
 ---
 
 

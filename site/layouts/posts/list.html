@@ -7,7 +7,16 @@
 {{ end }}
 
 {{ define "main" }}
-  
+
+<section id="op-hero" class="hero is-medium" style="background-image:url('https://res.cloudinary.com/dklongley/image/upload/v1557947138/tree-of-awesome_1.png');background-size: cover; background-position: center center;">
+  <div class="xhero-body">
+     <div class="container has-text-centered">
+   <h2 class="is-size-1">Blog</h2>
+   <h3 class="is-size-2">Learn more about managing a successful website</h3>
+     </div>
+   </div>
+ </section>
+ <div class="has-text-centered">
 <ul>
         {{ range .Pages }}
             <li>
@@ -15,10 +24,10 @@
             </li>
         {{ end }}
         </ul>
-  
+      </div> 
 {{ end }}
 {{ define "more" }}
-  More and More 
+  
 {{ end }}
 
 {{ define "footer" }}

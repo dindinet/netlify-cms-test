@@ -57,7 +57,8 @@ input:invalid {
 input:valid {
   border: 1px solid green;
 }
-.is-hero-head{font-size: 4.5rem!important;color: #ff9800;}
+.is-hero-head{font-size: 4.5rem!important;}
+
 .is-hero-subhead{font-size: 3.5rem!important;}
 
 section {
@@ -65,6 +66,7 @@ section {
     padding-bottom: 60px;
 }
 #fp-hero, #op-hero{color:white; padding: 120px 0px 60px 0px; text-shadow: 2px 4px 3px rgba(0,0,0,0.5); background-size: cover; background-position: center center;}
+#fp-hero .is-hero-head{color: #ff9800;}
 #op-hero{padding: 10em 0 10em 0}
 #fp-possibilities{background-color: #f7e9d4;}
 #fp-possibilities .column{padding: 60px;}

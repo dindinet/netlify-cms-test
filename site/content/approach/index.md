@@ -6,12 +6,19 @@ type: approach
 ---
 
 ### help your visitors quickly say yes.
-### Your website and the CMS that drives it need to be very adaptive
+Push them up the funnel not falling down the funnel
+### Add Remove or Change (ARC)
+### Negative forces Positive forces
+
 ### design not to impress but leave an impression
 ### Launch fast and pivot based on data
 ### Landing pages purpose is to articulate your value proposition
 
 ### The best website for you customer and you is the one that delivers a winning offer that converts
+
+### What Works - Measure every significant thing
+
+### Your website and the CMS that drives it need to be very adaptive
 
 ### Save Time and Money
 There are many reasons you might have for getting a new website but all too often the reasons driving the decision making are the wrong reasons. Designers want to sell design and coders want to sell exciting widgets. In most cases no thought is given to the user of the web site and what they need or want. After all if you make your users happy they want more of what you are promoting. One of the biggest turn offs for web site visitors is slow loading pages. Slow loading pages are often the result of too much fancy design and whizz bang widgets.

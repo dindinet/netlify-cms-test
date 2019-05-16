@@ -57,9 +57,9 @@ input:invalid {
 input:valid {
   border: 1px solid green;
 }
-.hero-body div h2.is-size-1 {
-  color: #ff9800;
-}
+.is-hero-head{font-size: 4.5rem;color: #ff9800;}
+.is-her-subhead{font-size: 4.5rem;}
+
 section {
     padding-top: 60px;
     padding-bottom: 60px;

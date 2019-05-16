@@ -70,7 +70,7 @@ section {
 #op-hero{padding: 10em 0 10em 0}
 #fp-possibilities{background-color: #f7e9d4;}
 #fp-possibilities .column{padding: 60px;}
-#fp-reasons .container, #fp-possibilities .container, #fp-content, #customersites, #why-cloud-hosted, #contact-details {max-width: 1280px; margin-right:auto;margin-left:auto; padding: 12px;}
+#fp-reasons .container, #fp-possibilities .container, #fp-content, #customersites, #why-cloud-hosted, #contact-details {max-width: 1280px; margin-right:auto;margin-left:auto;}
 #fp-reasons h3.is-size-3.is-uppercase, #fp-possibilities h3.is-size-3.is-uppercase { margin-bottom: -10px; padding: 0px; color: #ff9800; font-weight: bold;}
 #fp-reasons .column{padding: 1.5rem;}
 #fp-content{padding: 2.5rem;}

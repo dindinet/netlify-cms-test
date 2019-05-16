@@ -8,7 +8,7 @@ type: approach
 ### help your visitors quickly say yes.
 Push them up the funnel not falling down the funnel
 ### Add Remove or Change (ARC)
-### Negative forces Positive forces
+### Negative forces Positive forces Reduce Anxiety Remove Friction
 
 ### design not to impress but leave an impression
 ### Launch fast and pivot based on data

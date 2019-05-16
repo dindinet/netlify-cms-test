@@ -57,8 +57,8 @@ input:invalid {
 input:valid {
   border: 1px solid green;
 }
-.is-hero-head{font-size: 4.5rem;color: #ff9800;}
-.is-her-subhead{font-size: 4.5rem;}
+.is-hero-head{font-size: 4.5rem!important;color: #ff9800;}
+.is-her-subhead{font-size: 4.5rem!important;}
 
 section {
     padding-top: 60px;

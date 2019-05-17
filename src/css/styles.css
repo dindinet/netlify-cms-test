@@ -20,8 +20,7 @@ h3{padding: 30px 0px 15px 0px;}
    box-sizing: border-box;
  }
 .navbar.is-fixed-top{border-bottom: 1px solid black;}
- header{background: rgba(ffffff);border-bottom: 1px solid #cccccc;
- }
+ header{background: rgba(ffffff);}
  header .column{padding:0px;}
  footer {background-color: #70558f; color:white; font-size: 1.4rem;}
  footer a{color: white;}

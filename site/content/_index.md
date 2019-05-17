@@ -3,8 +3,8 @@ title: Homepage
 subtitle: The page where I live
 image: 'https://res.cloudinary.com/dklongley/image/upload/o_100/v1556539856/chart.jpg'
 blurb:
-  heading: 'Websites for organisations who want to use their precious budget to increase visitor numbers, conversions and ultimately increase revenues and/or profits.'
-  subheading: You should expect a return on your investment.
+  heading: 'Websites for organisations who want to increase visitor numbers, conversions and ultimately increase revenues and/or profits.'
+  subheading: Helping you spend your budget wisely.
   text: ' '
 blurb-1:
   heading: 'Increase Engagement, Revenue and Profit'

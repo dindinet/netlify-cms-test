@@ -5,8 +5,8 @@ image: 'https://res.cloudinary.com/dklongley/image/upload/o_100/v1556539856/char
 blurb:
   heading: 'Websites for organisations who want to increase visitor numbers, conversions, revenues and/or profits.'
   oldheading: 'Websites for organisations who want to increase visitor numbers, conversions and ultimately increase revenues and/or profits.'
-  subheading: Ensuring you spend your budget wisely.
-  text: 'when we understand our cutomers and our customers understand our offer, magic happens.'
+  subheading: 'When you understand your cutomers and your customers understand your offer, magic happens.'
+  text: 'Ensuring you spend your budget wisely.'
 blurb-1:
   heading: 'Increase Engagement, Revenue and Profit'
   subheading: websites for people who value time and money

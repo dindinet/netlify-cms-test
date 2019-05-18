@@ -3,9 +3,13 @@ title: Homepage
 subtitle: The page where I live
 image: 'https://res.cloudinary.com/dklongley/image/upload/o_100/v1556539856/chart.jpg'
 blurb:
+  heading: 'Websites for organisations who want to increase visitor numbers, conversions and profits.'
+  subheading: 'When you understand your customers and your customers understand your offer, magic happens.'
+  text: 'Ensuring you spend your budget wisely.'
+blurb-2:
   heading: 'Websites for organisations who want to increase visitor numbers, conversions, revenues and/or profits.'
   oldheading: 'Websites for organisations who want to increase visitor numbers, conversions and ultimately increase revenues and/or profits.'
-  subheading: 'When you understand your cutomers and your customers understand your offer, magic happens.'
+  subheading: 'When you understand your customers and your customers understand your offer, magic happens.'
   text: 'Ensuring you spend your budget wisely.'
 blurb-1:
   heading: 'Increase Engagement, Revenue and Profit'
@@ -62,16 +66,16 @@ possibilities:
 ### Approach
 
 What we know. Building a website without understanding visitor needs is bound to fail. And
-grabbing a fashionable website template and shoehorning your content into it will not create the wins you desire.
+grabbing a fashionable website template to shoehorn your content into, will not create the wins you desire.
 
-In a nutshell your website should predominantly focus on helping visitors achieve their goals(and therefore yours). To do this just be very clear about your offer and make it very easy for visitors to obtain what you offer. Start with your value proposisition
+In a nutshell, your website should predominantly focus on helping visitors achieve their goals (and therefore yours). To do this just be very clear about your offer and make it very easy for visitors to obtain it. Start with your value proposisition.
 
-Once you have nailed your value proposition and planned what a visitor journey might look like We start quickly with a minimum viable site setup to monitor visitor behaviour. Over the following weeks we work with you to facilitate your content experiments to increase conversion. We can continue to support you for as long as you need or train your team to go it alone.
+Once you have nailed your value proposition and planned what a visitor journey might look like, we start quickly with a minimum viable site setup to monitor visitor behaviour. Over the following weeks, we work with you to facilitate your content experiments to increase conversion. We can continue to support you for as long as you need or train your team to go it alone.
 
-The behind closed doors design and build leading to heraldic website launch is great for rudderless fantasy projects with money to burn but not the way to reach your goals and ultimately grow your organisation.
+The behind closed doors design and build leading to heraldic website launch is great for rudderless fantasy projects with money to burn but not the way to reach your goals and, ultimately, grow your organisation.
 
-The sole purpose of your web pages should be to move the visitor to a desired goal. Any negative force(friction) that prevents visitors from
-reaching the goal should be removed. Any positive force(lubricant) that propels the visitor towards the goal needs to be added.
+The sole purpose of your web pages should be to move the visitor to a desired goal. Any negative force (friction) that prevents visitors from
+reaching the goal should be removed. Any positive force (lubricant) that propels the visitor towards the goal needs to be added.
 
 ## When you understand your cutomers and your customers understand your offer, magic happens.
 

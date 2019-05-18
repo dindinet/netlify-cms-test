@@ -4,13 +4,13 @@ subtitle: The page where I live
 image: 'https://res.cloudinary.com/dklongley/image/upload/o_100/v1556539856/chart.jpg'
 blurb:
   heading: 'Websites for organisations who want to increase visitor numbers, conversions and profits.'
-  subheading: 'When you understand your customers and your customers understand your offer, magic happens.'
-  text: 'Ensuring you spend your budget wisely.'
+  subheading: ''
+  text: 'When you understand your customers and your customers understand your offer, magic happens.'
 blurb-2:
   heading: 'Websites for organisations who want to increase visitor numbers, conversions, revenues and/or profits.'
   oldheading: 'Websites for organisations who want to increase visitor numbers, conversions and ultimately increase revenues and/or profits.'
-  subheading: ''
-  text: 'When you understand your customers and your customers understand your offer, magic happens.'
+  subheading: 'When you understand your customers and your customers understand your offer, magic happens.'
+  text: 'Ensuring you spend your budget wisely.'
 blurb-1:
   heading: 'Increase Engagement, Revenue and Profit'
   subheading: websites for people who value time and money

@@ -6,7 +6,7 @@ blurb:
   heading: 'Websites for organisations who want to increase visitor numbers, conversions, revenues and/or profits.'
   oldheading: 'Websites for organisations who want to increase visitor numbers, conversions and ultimately increase revenues and/or profits.'
   subheading: Ensuring you spend your budget wisely.
-  text: ' '
+  text: 'when we understand our cutomers and our customers understand our offer, magic happens.'
 blurb-1:
   heading: 'Increase Engagement, Revenue and Profit'
   subheading: websites for people who value time and money
@@ -57,6 +57,8 @@ possibilities:
     subheading: evolve and reap the rewards
 ---
 
+## When you understand your cutomers and your customers understand your offer, magic happens.
+
 ### Approach
 
 What we know. Building a website without understanding visitor needs is bound to fail. And
@@ -70,6 +72,8 @@ The behind closed doors design and build leading to heraldic website launch is g
 
 The sole purpose of your web pages should be to move the visitor to a desired goal. Any negative force(friction) that prevents visitors from
 reaching the goal should be removed. Any positive force(lubricant) that propels the visitor towards the goal needs to be added.
+
+## When you understand your cutomers and your customers understand your offer, magic happens.
 
 ### Is this for me?
 

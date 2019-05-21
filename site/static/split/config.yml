@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: master
+  branch: split-test
 media_library:
   name: cloudinary
   config:

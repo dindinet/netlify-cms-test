@@ -5,7 +5,7 @@ image: 'https://res.cloudinary.com/dklongley/image/upload/o_100/v1556539856/char
 blurb:
   heading: 'Websites for organisations who want to increase visitor numbers, conversions and profits.'
   subheading: ''
-  text: 'When you understand your customers and your customers understand your offer, magic happens.'
+  text: 'The magic happens when you understand your customers and your customers understand your offer.'
 blurb-2:
   heading: 'Websites for organisations who want to increase visitor numbers, conversions, revenues and/or profits.'
   oldheading: 'Websites for organisations who want to increase visitor numbers, conversions and ultimately increase revenues and/or profits.'

@@ -3,7 +3,7 @@ title: Homepage
 subtitle: The page where I live
 image: 'https://res.cloudinary.com/dklongley/image/upload/o_100/v1556539856/chart.jpg'
 blurb:
-  heading: Websites for People Who Value Time and Money
+  heading: Websites for People Who Value Time and Money Split
   subheading: 'Increase engagement, revenue and profit '
   text: ' '
 reasons:

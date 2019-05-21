@@ -22,7 +22,7 @@
     </tr>
       {{ end }}
    </table>
-     {{ if isset .Params "dog" }}
+     {{ if .Params.dog }}
      <h1>The Dog says {{ .Params.dog }}</h1>
      {{ else }}
      <h1>The Cat says {{ .Params.cat }}</h1>

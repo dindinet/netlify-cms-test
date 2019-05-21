@@ -5,6 +5,9 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
+  path: site/content/get-started/index.md
+  label: Get Started
+- type: document
   path: site/content/contact/index.md
   label: Contact
   match: "**/*"

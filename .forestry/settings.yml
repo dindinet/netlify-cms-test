@@ -5,6 +5,9 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
+  path: site/content/why-cloud-hosted/index.md
+  label: Why Cloud Hosted
+- type: document
   path: site/content/recent-work/index.md
   label: Recent Work
   match: "**/*"

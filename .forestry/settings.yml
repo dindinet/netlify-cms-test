@@ -10,14 +10,12 @@ sections:
 - type: document
   path: site/content/recent-work/index.md
   label: Recent Work
-  match: "**/*"
 - type: document
   path: site/content/get-started/index.md
   label: Get Started
 - type: document
   path: site/content/contact/index.md
   label: Contact
-  match: "**/*"
 - type: document
   path: site/content/approach/index.md
   label: Approach

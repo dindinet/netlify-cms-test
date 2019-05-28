@@ -69,10 +69,10 @@ My answer is nearly always 'Yes, I can.'. I have experience building all kinds o
 
 The next question is 'How much will it cost?'
 
-So now we have to have a bigger conversation because before we can answer that we need to know a lot more about what you want to achieve
+So now we have to have a bigger conversation because before we can answer that I need to know a lot more about what you want to achieve
 with your website. 
 
-You see I prefer to work with people who have clear goals. Goals keep everyone involved on their toes.  More importantly goals are a destination and when we have a destination we can plan the journey.
+You see, I prefer to work with people who have clear goals. Goals keep everyone involved on their toes.  More importantly goals are a destination and when we have a destination we can plan the journey.
 
 A typical website journey starts with your customers(your audience) and their goals.
 
@@ -85,7 +85,7 @@ Don't worry if you haven't got your goals 100% crystal clear. That is quite norm
 
 ### Approach
 
-What we know. Building a website without understanding visitor needs is bound to fail. And
+Building a website without understanding visitor needs is bound to fail. And
 grabbing a fashionable website template to shoehorn your content into, will not create the wins you desire.
 
 In a nutshell, your website should predominantly focus on helping visitors achieve their goals (and therefore yours). To do this just be very clear about your offer and make it very easy for visitors to obtain it. Start with your value proposisition.

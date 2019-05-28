@@ -61,7 +61,7 @@ possibilities:
     subheading: evolve and reap the rewards
 ---
 
-## When you understand your cutomers and your customers understand your offer, magic happens.
+## When you understand your cutomers and your customers understand your offer, magic happens
 
 I build websites and everyday, not suprisingly, I get asked 'Can you build us a website?'
 

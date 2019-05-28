@@ -63,16 +63,18 @@ possibilities:
 
 ## When you understand your cutomers and your customers understand your offer, magic happens.
 
-I build websites and everyday I get asked 'Can you build us a website?'
+I build websites and everyday, not suprisingly, I get asked 'Can you build us a website?'
 
 My answer is nearly always 'Yes, I can.'. I have experience building all kinds of websites for all kinds of people and organisations with all kinds of goals.
 
 The next question is 'How much will it cost?'
 
-So now we have to have a bigger conversation because before we can answer that I need to know a lot more about what you want to achieve
-with your website. 
+How much? So now we have to have a bigger conversation because before we can answer that I need to know a lot more about what you want to achieve
+with your website.
 
 You see, I prefer to work with people who have clear goals. Goals keep everyone involved on their toes.  More importantly goals are a destination and when we have a destination we can plan the journey.
+
+A very important point to bear in mind is that a website is never truly finished. Your website is a tool for marketing your offer and as such will always need to adapt to the demands of your visitors and your business. Our focus is to provide you with a publishing platform that is easy to maintain, update and extend. A simple website will not be up to the job.
 
 A typical website journey starts with your customers(your audience) and their goals.
 

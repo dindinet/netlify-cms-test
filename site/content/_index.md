@@ -5,7 +5,7 @@ image: 'https://res.cloudinary.com/dklongley/image/upload/o_100/v1556539856/char
 blurb:
   heading: 'Websites for organisations who want to increase visitor numbers, conversions and profits.'
   subheading: ''
-  text: 'The magic happens when you understand your customers and your customers understand your offer.'
+  text: 'The magic happens when you understand your customers and your customers understand your offer  .'
 blurb-2:
   heading: 'Websites for organisations who want to increase visitor numbers, conversions, revenues and/or profits.'
   oldheading: 'Websites for organisations who want to increase visitor numbers, conversions and ultimately increase revenues and/or profits.'
@@ -62,6 +62,26 @@ possibilities:
 ---
 
 ## When you understand your cutomers and your customers understand your offer, magic happens.
+
+I build websites and everyday I get asked 'Can you build us a website?'
+
+My answer is nearly always 'Yes, I can.'. I have experience building all kinds of websites for all kinds of people and organisations with all kinds of goals.
+
+The next question is 'How much will it cost?'
+
+So now we have to have a bigger conversation because before we can answer that we need to know a lot more about what you want to achieve
+with your website. 
+
+You see I prefer to work with people who have clear goals. Goals keep everyone involved on their toes.  More importantly goals are a destination and when we have a destination we can plan the journey.
+
+A typical website journey starts with your customers(your audience) and their goals.
+
+If we create a website that does not help your visitors reach their goals then you will not reach yours.
+
+I am not a magician I am a human with a specific skill set and experience. I am only successful when I help my clients reach their goals.
+
+Don't worry if you haven't got your goals 100% crystal clear. That is quite normal. I can work with you to bring the clarity.
+
 
 ### Approach
 

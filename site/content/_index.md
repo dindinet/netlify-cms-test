@@ -65,14 +65,14 @@ possibilities:
 
 I build websites and everyday, not suprisingly, I get asked 'Can you build us a website?'
 
-My answer is nearly always 'Yes, I can.'. I have experience building all kinds of websites for all kinds of people and organisations with all kinds of goals and problems to solve.
+My answer is nearly always 'Yes, I can.'. I have nearly 3 decades experience building all kinds of websites for all kinds of people and organisations with all kinds of goals and problems to solve. My experience gives me a very particular view on the way people approach building their website, but more on that later.
 
 The next question is 'How much will it cost?'
 
-How much? So now we have to have a bigger conversation because before I can answer that I need to know a lot more about what you want to achieve
+How much? So now we have to have a real conversation because before I can answer that I need to know a lot more about what you want to achieve
 with your website.
 
-A very important point to bear in mind is that a website is never truly finished. Your website is a tool for marketing your offer and as such will always need to adapt to the demands of your visitors and your business. My focus is to provide you with a publishing platform that is easy to maintain, update and extend. A simple website will not be up to the job.
+A very important point to bear in mind is that a website is never truly finished. Your website should be part of a set of tools for marketing your offer and as such will always need to adapt to the demands of your visitors and your business. My focus is to provide you with a publishing platform that is easy to maintain, update and extend. A simple website will not be up to the job.
 
 You see, I prefer to work with people who have clear goals. Goals keep everyone involved on their toes. More importantly goals are a destination and when we have a destination we can plan the journey.
 
@@ -82,17 +82,19 @@ If we create a website that does not help your visitors reach their goals then y
 
 I am not a magician I am a human with a specific skill set and experience. I am only successful when I help my clients reach their goals.
 
-Don't worry if you haven't got your goals 100% crystal clear. That is quite normal. Nobody can second guess their audience. By watching and listening to your audience you will succeed.
+Don't worry if you haven't got your goals 100% crystal clear. That is quite normal. Nobody can second guess their audience. By watching and listening to your audience you will succeed and I can show you how.
 
 ### Approach
 
-Building a website without understanding visitor needs is bound to fail. And grabbing a fashionable website template to shoehorn your content into will not create the wins you desire.
+Building a website without understanding visitor needs is bound to fail. And grabbing a fashionable website template to shoehorn some content into will not create the wins you desire.
 
 The more traditional approach to website creation starts by getting a website design agency involved.  They will show you recent projects they have done, ask a few questions about how you want the website to look. They might ask you some questions about your target audience. The job of the design agency is to sell design. They will have a bunch of specialists on staff who all need paying.
 
-After a bit of to and fro you will eceive and accept a quote and work will start. For a period of time you will not hear anything whilst the designers design and the coders code. All the time eating up your budget. You might have progess meetings along the way. Eventually the day will arrive when the website is ready, signed off and launched. Now you wait.
+After a bit of to and fro you will receive and accept a quote and work will start. For a period of time you will not hear anything whilst the designers design and the coders code. All the time eating up your budget. You might have progess meetings along the way. Eventually the day will arrive when the website is ready, signed off and launched. Now you wait.
 
-Do you get the hoped for stream of enquiries. It's early days give it time. You wait. Still nothing. Where are you now? You have a website it looks great but it is not performing. Why are visitors not converting? Where are they dropping out? Where did they come from? Your budget is spent. What would you do? How do you avoid this avoidable scenario?
+After the back patting and initial euphoria of launch, when everyone you know and their cat has had a look, the dust settles. Do you get the hoped for stream of enquiries? It's early days. Give it time. You wait... Still nothing.
+
+Where are you now? Your budget is spent. You have a website it looks great but it is not performing. Why are visitors not converting? Where are they dropping out? Where did they come from? Your budget is spent. What would you do? How do you avoid this avoidable scenario?
 
 Your business and it's success is too important for this frivolous design led approach. You need an approach that delivers a platform and tools that allow you to manage your online marketing. You can then spend your budget on the important things like the words on the screen that connect with and persuade your audience. You can run experiments to compare different versions of a page or page elements. The data from your tests show you what your audience prefers. Some elements of the offer will need to be removed or changed and even new elements added. Your goal is to improve conversion and remove any friction points. By working diligently, engageing with the process of continual improvement and monitoring visiors reaction you will get the wins you deserve.
 

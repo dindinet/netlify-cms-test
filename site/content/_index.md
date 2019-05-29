@@ -86,7 +86,7 @@ Don't worry if you haven't got your goals 100% crystal clear. That is quite norm
 
 ### Approach
 
-Building a website without understanding visitor needs is bound to fail. And grabbing a fashionable website template to shoehorn some content into will not create the wins you desire.
+Building a website without understanding visitor needs is bound to fail. And grabbing a fashionable website template to shoehorn some content into will never create the wins you desire.
 
 The more traditional approach to website creation starts by getting a website design agency involved.  They will show you recent projects they have done, ask a few questions about how you want the website to look. They might ask you some questions about your target audience. The job of the design agency is to sell design. They will have a bunch of specialists on staff who all need paying.
 
@@ -96,7 +96,7 @@ After the back patting and initial euphoria of launch, when everyone you know an
 
 Where are you now? Your budget is spent. You have a website it looks great but it is not performing. Why are visitors not converting? Where are they dropping out? Where did they come from? Your budget is spent. What would you do? How do you avoid this avoidable scenario?
 
-Your business and it's success is too important for this frivolous design led approach. You need an approach that delivers a platform and tools that allow you to manage your online marketing. You can then spend your budget on the important things like the words on the screen that connect with and persuade your audience. You can run experiments to compare different versions of a page or page elements. The data from your tests show you what your audience prefers. Some elements of the offer will need to be removed or changed and even new elements added. Your goal is to improve conversion and remove any friction points. By working diligently, engageing with the process of continual improvement and monitoring visiors reaction you will get the wins you deserve.
+Your business and it's success are too important for this frivolous design led approach. You need an approach that delivers. A platform and tools that allow you to manage your online marketing. You can then spend your budget on the important things such as words on the screen that connect with and persuade your audience. You can run experiments to compare different versions of a page or page elements. The data from your tests show you what your audience prefers. Some elements of the offer will need to be removed or changed and even new elements added. Your goal is to improve conversion and remove any friction points. By working diligently, engageing with the process of continual improvement and monitoring visiors reaction you will get the wins you deserve. A bonus to all this is you will gain the skills and knowledge that you can use repeatedly to launch new products services or whole new businesses.
 
 In a nutshell, your website should predominantly focus on helping visitors achieve their goals (and therefore yours). To do this just be very clear about your offer and make it very easy for visitors to obtain it. Start with your value proposisition.
 

@@ -19,20 +19,20 @@ reasons:
   - benefits:
       - benefit: Search engines promote fast sites over slow sites.
       - benefit: >-
-          When websites are slow to load, they cost the owner dear. Impatient
+          Visitors love fast sites. When websites are slow to load, they cost the owner dear. Impatient
           visitors will bounce to competitor sites. 
     heading: Fast
     subheading: time is money
   - benefits:
       - benefit: >-
-          Cloud websites are secure from top to bottom so you avoid the expense
+          JAMstack websites are secure from top to bottom so you avoid the expense
           of fixing your reputation and loss of business after a security
           breech.
       - benefit: No security updates required
     heading: Secure
     subheading: reputation is all
   - benefits:
-      - benefit: Cloud hosted websites come with lower operating costs.
+      - benefit: JAMstack websites come with lower operating costs.
       - benefit: ' Unlike WordPress and other popular Dynamic CMS (Content Management System) driven websites, cloud hosted websites use fewer computing resources.'
     heading: Affordable
     subheading: more doesn't cost more

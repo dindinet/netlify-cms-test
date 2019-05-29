@@ -5,7 +5,7 @@ image: 'https://res.cloudinary.com/dklongley/image/upload/o_100/v1556539856/char
 blurb:
   heading: 'Websites for organisations who want to increase visitor numbers, conversions and profits.'
   subheading: ''
-  text: 'The magic happens when you understand your customers and your customers understand your offer  .'
+  text: 'The magic happens when you understand your customers and your customers understand your offer'
 blurb-2:
   heading: 'Websites for organisations who want to increase visitor numbers, conversions, revenues and/or profits.'
   oldheading: 'Websites for organisations who want to increase visitor numbers, conversions and ultimately increase revenues and/or profits.'
@@ -61,22 +61,20 @@ possibilities:
     subheading: evolve and reap the rewards
 ---
 
-## When you understand your cutomers and your customers understand your offer, magic happens
+## When you understand your customers and your customers understand your offer, magic happens
 
 I build websites and everyday, not suprisingly, I get asked 'Can you build us a website?'
 
-My answer is nearly always 'Yes, I can.'. I have experience building all kinds of websites for all kinds of people and organisations with all kinds of goals.
+My answer is nearly always 'Yes, I can.'. I have experience building all kinds of websites for all kinds of people and organisations with all kinds of goals and problems to solve.
 
 The next question is 'How much will it cost?'
 
 How much? So now we have to have a bigger conversation because before I can answer that I need to know a lot more about what you want to achieve
 with your website.
 
-A very important point to bear in mind is that a website is never truly finished. Your website is a tool for marketing your offer and as such will always need to adapt to the demands of your visitors and your business. Our focus is to provide you with a publishing platform that is easy to maintain, update and extend. A simple website will not be up to the job.
+A very important point to bear in mind is that a website is never truly finished. Your website is a tool for marketing your offer and as such will always need to adapt to the demands of your visitors and your business. My focus is to provide you with a publishing platform that is easy to maintain, update and extend. An simple website will not be up to the job.
 
 You see, I prefer to work with people who have clear goals. Goals keep everyone involved on their toes.  More importantly goals are a destination and when we have a destination we can plan the journey.
-
-
 
 A typical website journey starts with your customers(your audience) and their goals.
 
@@ -86,11 +84,9 @@ I am not a magician I am a human with a specific skill set and experience. I am 
 
 Don't worry if you haven't got your goals 100% crystal clear. That is quite normal. I can work with you to bring the clarity.
 
-
 ### Approach
 
-Building a website without understanding visitor needs is bound to fail. And
-grabbing a fashionable website template to shoehorn your content into, will not create the wins you desire.
+Building a website without understanding visitor needs is bound to fail. And grabbing a fashionable website template to shoehorn your content into will not create the wins you desire.
 
 In a nutshell, your website should predominantly focus on helping visitors achieve their goals (and therefore yours). To do this just be very clear about your offer and make it very easy for visitors to obtain it. Start with your value proposisition.
 

@@ -72,7 +72,9 @@ The next question is 'How much will it cost?'
 How much? So now we have to have a real conversation because before I can answer that I need to know a lot more about what you want to achieve
 with your website.
 
-A very important point to bear in mind is that your website, the public fase of your organisation, is never truly finished. Your website needs to change as the market dictates, not when someine in the organisation decides it is time for a makeover. Your website is a living entity. It needs to be tended, maintained and monitired. When you get your website from me  all the tools are included, just like the hosting, at no extra cost. Over time you will appreciate their presence in your marketing toolbox. LEARN MORE HERE (CMS version control media library analytics testing email marketing form handler)
+A very important point to bear in mind is that your website, the public face of your organisation, is never truly finished. 
+
+A modern organisation needs to be able to react to the market without delay. Being able to update your website 24/7 is essential. A website that shows no signs of change over time gives an impression that the organisation behind it is not on top of things. In the digital world people make decisions based on their perception of the organisation behind the site. Given the choice between an organisation that is alert and communicative and one that looks like it has stopped communicating. Most people choose the former. Your website is a living entity. It needs to be maintained and monitired. When you get your website from me  all the tools are included, just like the hosting, at no extra cost. Over time you will appreciate their presence in your marketing toolbox. LEARN MORE HERE (CMS version control media library analytics testing email marketing form handler)
 
 You see, I prefer to work with people who have clear goals. Goals keep everyone involved on their toes. More importantly goals are a destination and when we have a destination we can plan the journey.
 

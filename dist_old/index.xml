@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepage</title>
+    <link>/</link>
+    <description>Recent content on Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Apr 2019 14:18:52 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Platano</title>
+      <link>/posts/banana/</link>
+      <pubDate>Sun, 28 Apr 2019 14:18:52 +0000</pubDate>
+      
+      <guid>/posts/banana/</guid>
+      <description>Nutritious and oh so delicious.</description>
+    </item>
+    
+    <item>
+      <title>Parmigiano Reggiano</title>
+      <link>/posts/cheese/</link>
+      <pubDate>Thu, 25 Apr 2019 20:48:51 +0000</pubDate>
+      
+      <guid>/posts/cheese/</guid>
+      <description>Somewhere underneath the village is a cave stuffed full of the most amazing and valuable cheese.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>You can reach out to me on the following email address dklongley at dindi.net</description>
+    </item>
+    
+    <item>
+      <title>Get Started</title>
+      <link>/get-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/get-started/</guid>
+      <description>Loading... </description>
+    </item>
+    
+    <item>
+      <title>Recent Work</title>
+      <link>/recent-work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/recent-work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visitor Centered Approach</title>
+      <link>/approach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/approach/</guid>
+      <description>help your visitors quickly say yes. Push them up the funnel not falling down the funnel
+Add Remove or Change (ARC) Negative forces Positive forces Reduce Anxiety Remove Friction design not to impress but leave an impression Launch fast and pivot based on data Landing pages purpose is to articulate your value proposition The best website for you customer and you is the one that delivers a winning offer that converts What Works - Measure every significant thing Your website and the CMS that drives it need to be very adaptive Save Time and Money There are many reasons you might have for getting a new website but all too often the reasons driving the decision making are the wrong reasons.</description>
+    </item>
+    
+    <item>
+      <title>Why Cloud Hosted</title>
+      <link>/why-cloud-hosted/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/why-cloud-hosted/</guid>
+      <description>Save Time and Money There are many reasons you might have for getting a new website but all too often the reasons driving the decision making are the wrong reasons. Designers want to sell design and coders want to sell exciting widgets. In most cases no thought is given to the user of the web site and what they need or want. After all if you make your users happy they want more of what you are promoting.</description>
+    </item>
+    
+  </channel>
+</rss>

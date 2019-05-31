@@ -65,16 +65,22 @@ possibilities:
 
 I build websites and everyday, not suprisingly, I get asked 'Can you build us a website?'
 
-My answer is nearly always 'Yes, I can.'. I have nearly 3 decades experience building all kinds of websites for all kinds of people and organisations with all kinds of goals and problems to solve. My experience gives me a very particular view on the way people approach building their website, but more on that later.
+My answer is nearly always 'Yes, I can.'. I have nearly 3 decades experience building all kinds of websites for all kinds of people and organisations with a wide range of goals and problems to solve. My experience gives me a very particular view on the way people approach building their website, but more on that later.
 
 The next question is 'How much will it cost?'
 
 How much? So now we have to have a real conversation because before I can answer that I need to know a lot more about what you want to achieve
 with your website.
 
-A very important point to bear in mind is that your website, the public face of your organisation, is never truly finished. 
+A very important point to bear in mind is that your website, the public face of your organisation, is never truly finished.
 
-A modern organisation must react to the market without delay. Being able to update your website 24/7 is essential. A website that shows no signs of change over time gives an impression that the organisation behind it is not on top of things. In the digital world people make decisions based on their perception of the organisation behind the site. Given the choice between an organisation that is alert and communicative and one that looks like it has stopped communicating. Most people choose the former. Your website is a living entity. It needs to be maintained and monitired. When you get your website from me  all the tools are included, just like the hosting, at no extra cost. Over time you will appreciate their presence in your marketing toolbox. LEARN MORE HERE (CMS version control media library analytics testing email marketing form handler)
+Modern organisations react to their market without delay. Being able to update your website 24/7 is essential. A website that shows no signs of change over time gives an impression that the organisation behind it is not on top of things. Your website is a living entity that must be maintained and monitored.
+
+People make decisions based on their perception of the organisation behind the site. Given the choice between an organisation that is alert and communicative or one that looks like it has stopped communicating, most people choose the former.
+
+When you have your website built by me it will include all the tools, just like the hosting, at no extra cost. Over time you will appreciate their presence in your marketing toolbox.
+
+LEARN MORE HERE (CMS version control media library analytics testing email marketing form handler)
 
 You see, I prefer to work with people who have clear goals. Goals keep everyone involved on their toes. More importantly goals are a destination and when we have a destination we can plan the journey.
 

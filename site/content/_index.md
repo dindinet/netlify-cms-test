@@ -60,12 +60,6 @@ possibilities:
       converted to run on the cloud. More...
     subheading: evolve and reap the rewards
 features:
-  - feature: Multi Cloud Hosting
-    subheading: Secure, Lightening Fast and Distributed
-    description: >-
-      Hosting so robust that you will never worry about the availibility of your site.
-      Technical SEO headaches solved. All connections are encrypted and requests served incredibly fast.    
-    image: 
   - feature: Content Management
     subheading: Essential 24/7 access to your content
     description: >-
@@ -85,6 +79,12 @@ features:
     subheading: Powerful Tools for Content Creators
     description: >-
        Your media assets all in one place for your team. Manipulate your images and videos dynamically to fit any graphics design. Apply effects, resizing, cropping, face detection, watermarks and tons of processing capabilities.
+    image:
+  - feature: Multi Cloud Hosting
+    subheading: Secure, Lightening Fast and Distributed
+    description: >-
+      Hosting so robust that you will never worry about the availibility of your site.
+      Technical SEO headaches solved. All connections are encrypted and requests served incredibly fast.    
     image:
 ---
 <!--

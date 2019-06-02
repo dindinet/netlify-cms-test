@@ -81,6 +81,11 @@ features:
     description: >-
       Manage all aspects of 'On Page' Search Engine Optimisation via your CMS. 
     image:
+  - feature: Media Management
+    subheading: Powerful Tools for Content Creators
+    description: >-
+       Your media assets all in one place for your team. Manipulate your images and videos dynamically to fit any graphics design. Apply effects, resizing, cropping, face detection, watermarks and tons of processing capabilities.
+    image:
 ---
 <!--
 ### Is this for me?

@@ -66,7 +66,7 @@ features:
       Hosting so robust that you will never worry about the availibility of your site.
       Technical SEO headaches solved. All connections are encrypted and requests served incredibly fast.    
     image: 
-  - feature: Content Management System (CMS)
+  - feature: Content Management
     subheading: Essential 24/7 access to your content
     description: >-
       Choose between the included open source version controlled multi user CMS, your existing CMS or a headless CMS service. As long as the site build process can import your content you can use your preferred CMS. 
@@ -75,6 +75,11 @@ features:
     subheading: Use real data to reduce friction
     description: >-
       Grow your business by optimising your website to convert more visitors. Convert more visitors to buyers. Convert more visitors to email list subscribers. Convert more visitors to share your content. Use split testing to try new ideas and analytics to report on your success.
+    image:
+  - feature: SEO Management
+    subheading: Getting Found and Encouraging Clickthrough
+    description: >-
+      Manage all aspects of 'On Page' Search Engine Optimisation via your CMS. 
     image:
 ---
 

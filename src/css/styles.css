@@ -75,8 +75,8 @@ section {
 #fp-content h2{line-height: 1em; padding-bottom: 0.8em;}
 #why-cloud-hosted .column{padding: 60px;}
 #fp-content, #why-cloud-hosted{max-width: 980px;padding: 2.5rem;}
-.is-feature-head{font-size: 4vw; font-weight: bold; padding: 0}
-.is-feature-subhead{font-size: 2vw;font-weight: bold;}
+.is-feature-head{font-size: 4vw!important; font-weight: bold; padding: 0}
+.is-feature-subhead{font-size: 2vw!important;font-weight: bold;}
 li, #fp-reasons li {
   list-style-type: none;
   position: relative;

@@ -65,20 +65,20 @@ features:
     description: >-
       Choose between the included open source version controlled multi user CMS, your existing CMS or a headless CMS service. As long as the site build process can import your content you can use your preferred CMS. 
     image:
-  - feature: Growth Management
-    subheading: Use real data to reduce friction
+  - feature: Media Management
+    subheading: Powerful Tools for Content Creators
     description: >-
-      Grow your business by optimising your website to convert more visitors. Convert more visitors to buyers. Convert more visitors to email list subscribers. Convert more visitors to share your content. Use split testing to try new ideas and analytics to report on your success.
+       Your media assets all in one place for your team. Manipulate your images and videos dynamically to fit any graphics design. Apply effects, resizing, cropping, face detection, watermarks and tons of processing capabilities.
     image:
   - feature: SEO Management
     subheading: Getting Found and Encouraging Clickthrough
     description: >-
       Manage all aspects of 'On Page' Search Engine Optimisation via your CMS. 
     image:
-  - feature: Media Management
-    subheading: Powerful Tools for Content Creators
+  - feature: Growth Management
+    subheading: Use real data to reduce friction
     description: >-
-       Your media assets all in one place for your team. Manipulate your images and videos dynamically to fit any graphics design. Apply effects, resizing, cropping, face detection, watermarks and tons of processing capabilities.
+      Grow your business by optimising your website to convert more visitors. Convert more visitors to buyers. Convert more visitors to email list subscribers. Convert more visitors to share your content. Use split testing to try new ideas and analytics to report on your success.
     image:
   - feature: Multi Cloud Hosting
     subheading: Secure, Lightening Fast and Distributed

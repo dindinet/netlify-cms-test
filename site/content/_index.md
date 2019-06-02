@@ -82,9 +82,7 @@ features:
       Manage all aspects of 'On Page' Search Engine Optimisation via your CMS. 
     image:
 ---
-
-## When you understand your cutomers and your customers understand your offer, magic happens
-
+<!--
 ### Is this for me?
 
 If you are planning a new website or updating your current website and you have prioritized speed, security, easy content management and reduced costs, then please contact me to talk about your plans.
@@ -101,7 +99,7 @@ Check out some of our recent work
 
 Contact an Expert about your website hopes and dreams
 
-<!-- 
+ 
   - heading: Increase Functionality
     possible: >-
       The new cloud computing paradigm allows website owners to easily add

@@ -47,7 +47,20 @@
   </div>
     </div>
 </section>
-<div id="fp-content">{{ .Content }} </div>
+<section id="fp-features">
+  <div class="container">
+    <div class="columns">
+    {{ range .Params.features }}
+      <div class="column">
+       <h3 class="is-size-3 is-uppercase">{{ .feature }}</h3>
+      <h4 class="is-size-4 is-lowercase">{{ .subheading }}</h4>
+      <p>{{ .description }}</p>
+  </div>
+    {{end}}
+</div>
+  </div>
+</section>
+<div id="fp-content"> {{ .Content }} </div>
 {{ end }}
 
 {{ define "more"}}

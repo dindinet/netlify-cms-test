@@ -22,8 +22,8 @@
   <div class="columns">
       {{ range .Params.reasons }}
     <div class="column">
-       <h3 class="is-feature-head is-uppercase">{{ .heading }}</h3>
-        <h4 class="is-feature-subhead is-lowercase">{{ .subheading }}</h4>
+       <h3 class="is-size-3 is-uppercase">{{ .heading }}</h3>
+        <h4 class="is-feature-subhead is-size-4 is-lowercase">{{ .subheading }}</h4>
         <ul>
         {{ range .benefits }}
             <li>{{ .benefit }}</li>
@@ -51,8 +51,8 @@
 
 <div id="fp-content"> 
   {{ range .Params.features }}
-    <h3 class="is-size-3 is-uppercase">{{ .feature }}</h3>
-    <h4 class="is-size-4 is-lowercase">{{ .subheading }}</h4>
+    <h3 class="is-feature-head  is-uppercase">{{ .feature }}</h3>
+    <h4 class="is-feature-subhead  is-lowercase">{{ .subheading }}</h4>
     <p>{{ .description }}</p>
   {{end}}
 

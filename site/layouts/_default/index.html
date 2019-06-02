@@ -4,10 +4,11 @@
 
 {{ define "header" }}
 {{ partial "nav.html" . }}
-<section id="fp-hero" class="hero is-medium" style="background:#129e40;xbackground-image:url('{{ .Params.image }}');background-size: cover; background-position: center center;">
+<section id="fp-hero" class="hero is-medium" style="background:#000000;xbackground-image:url('{{ .Params.image }}');background-size: cover; background-position: center center;">
   <div class="hero-body">
    <div class="container">
-    <h2 class="is-hero-head">{{ .Params.blurb.heading }}</h2>
+    <!-- <h2 class="is-hero-head">{{ .Params.blurb.heading }}</h2> -->
+    <img src="{{ .Params.blurb.heading }}" />
     <h3 class="is-hero-subhead">{{ .Params.blurb.subheading }}</h3>    
     <h4 class="is-size-3">{{ .Params.blurb.text }}</h4>
    </div>
@@ -21,8 +22,8 @@
   <div class="columns">
       {{ range .Params.reasons }}
     <div class="column">
-       <h3 class="is-size-3 is-uppercase">{{ .heading }}</h3>
-        <h4 class="is-size-4 is-lowercase">{{ .subheading }}</h4>
+       <h3 class="is-feature-head is-uppercase">{{ .heading }}</h3>
+        <h4 class="is-feature-subhead is-lowercase">{{ .subheading }}</h4>
         <ul>
         {{ range .benefits }}
             <li>{{ .benefit }}</li>

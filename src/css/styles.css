@@ -80,11 +80,11 @@ section {
 li, #fp-reasons li {
   list-style-type: none;
   position: relative;
-  padding: 8px 0px 8px 30px;
+  padding: 8px;
 }
 
 li:before, #fp-reasons li:before {
-  content: "🔶";
+  /*content: "🔶"; */
   font-size: 16px;
   padding-right: 8px;
   margin-left: -30px;

@@ -71,10 +71,10 @@ section {
 #fp-reasons .container, #fp-possibilities .container, #fp-content, #approach, #customersites, #why-cloud-hosted, #contact-details {max-width: 1280px; margin-right:auto;margin-left:auto;}
 #fp-reasons h3.is-size-3.is-uppercase, #fp-possibilities h3.is-size-3.is-uppercase { margin-bottom: -10px; padding: 0px; color: #ff9800; font-weight: bold;}
 #fp-reasons .column{padding: 1.5rem;}
-#fp-content{padding: 2.5rem;}
+#fp-valueprop, #fp-content{max-width: 980px;padding: 2.5rem;}
 #fp-content h2{line-height: 1em; padding-bottom: 0.8em;}
 #why-cloud-hosted .column{padding: 60px;}
-#fp-content, #why-cloud-hosted{max-width: 980px;padding: 2.5rem;}
+/* #fp-content, #why-cloud-hosted{} */
 .is-feature-head{font-size:4vw!important; font-weight: bold; padding: 0}
 .is-feature-subhead{font-size:2vw!important; font-weight: bold;}
 li, #fp-reasons li {

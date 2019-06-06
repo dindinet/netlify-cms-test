@@ -1,8 +1,8 @@
 ---
 title: Homepage
 subtitle: The page where I live
-vpHeading: Some websites prevent growth
-vpSubHeading: Is your website one of them?
+vpHeading: Many websites prevent growth
+vpSubHeading: Don't let your website be one of them?
 valueprop: >-
   You and other businesses like yours invest huge amounts of time and effort into making sure they are profitable as well as building and maintaining a reputation. Sometimes it feels like technology absorbs more time and money and doesn't deliver the promised gains. We get that. Our sole focus is to source and implement for our clients the best value and return on investment when it comes to websites and digital marketing. We are skilled in building and implementing marketing platforms from the best availbale tools and services available. We always champion an approach that will not lock you into a particular technology. The uptake of new technology should aid growth and cause zero or the minimum of disruption to your organisation.
 image: 'https://res.cloudinary.com/dklongley/image/upload/o_100/v1556539856/chart.jpg'

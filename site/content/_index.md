@@ -1,10 +1,12 @@
 ---
 title: Homepage
 subtitle: The page where I live
-vpHeading: Many websites prevent growth
+vpHeading: Too many websites prevent growth
 vpSubHeading: Don't let your website be one of them?
+newvslueprop: >-
+ Building and maintianing a reputation require a huge investment of resources and human endeavor. Months or years of work can be destroyed in an hour by something as trivial as a website being unavailable on the busiest day of the year. Lets work to prevent this kind of avoidable disaster
 valueprop: >-
-  You and other businesses like yours invest huge amounts of time and effort into making sure they are profitable as well as building and maintaining a reputation. Sometimes it feels like technology absorbs more time and money and doesn't deliver the promised gains. We get that. Our sole focus is to source and implement for our clients the best value and return on investment when it comes to websites and digital marketing. We are skilled in building and implementing marketing platforms from the best availbale tools and services available. We always champion an approach that will not lock you into a particular technology. The uptake of new technology should aid growth and cause zero or the minimum of disruption to your organisation.
+  You and other businesses like yours invest huge amounts of time and effort into making sure they are profitable as well as building and maintaining a reputation. Sometimes it feels like technology absorbs more time and money and doesn't deliver the promised gains. We get that. Our sole focus is to source and implement for our clients the best value and return on investment when it comes to websites and digital marketing. We are skilled in building and implementing marketing platforms from the best tools and services available. We will always champion an approach that does not lock you into a particular technology. The uptake of new technology should spped up growth and cause as little disruption to your organisation as possible.
 image: 'https://res.cloudinary.com/dklongley/image/upload/o_100/v1556539856/chart.jpg'
 blurb:
   heading: https://res.cloudinary.com/dklongley/image/upload/v1559495327/growth.svg

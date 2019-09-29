@@ -13,7 +13,7 @@ blurb:
   y-subheading: 'Lean Mean Conversion Machines'
   y-text: 'Get Yours Today'
   subheading: 'WEBSITES FOR GROWTH'
-  text: 'help companies engage visitors to grow audience for a larger share of the market'
+  text: 'helping companies engage visitors to grow audience for a larger share of the market'
 blurb-2:
   heading: 'Websites for organisations who want to increase visitor numbers, conversions, revenues and/or profits.'
   oldheading: 'Websites for organisations who want to increase visitor numbers, conversions and ultimately increase revenues and/or profits.'

@@ -9,11 +9,11 @@ export default class HomePreview extends React.Component {
     let image = getAsset(entry.getIn(["data", "image"]));
    return <div>
      <section id="fp-hero" class="hero is-medium" style={{
-    backgroundImage: image && `url(${image})`
+    backgroundImage: image && `url(${image}); background-color:#000;`
   }}>
   <div class="hero-body">
   <div class="container has-text-centered">
-   <img src='{entry.getIn(["data", "blurb",  "heading"])}'/>
+   <img src={entry.getIn(["data", "blurb",  "heading"])}/>
    <h3 class="is-size-2">{entry.getIn(["data", "blurb",  "subheading"])}</h3>
    <h4 class="is-size-3">{entry.getIn(["data", "blurb",  "text"])}</h4>
    </div>

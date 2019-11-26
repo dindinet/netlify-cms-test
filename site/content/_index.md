@@ -5,9 +5,11 @@ image: 'https://res.cloudinary.com/dklongley/image/upload/o_100/v1556539856/char
 blurb:
   heading: 'https://res.cloudinary.com/dklongley/image/upload/v1559495327/growth.svg'
   subheading: WEBSITES FOR GROWTH
-  text: |-
-    helping companies engage visitors to 
-    grow audience for a larger share of the market
+  text: >-
+    helping companies engage visitors to grow audience for a larger share of the
+    market
+
+    helping companies grow audience for a larger share of the market
 reasons:
   - benefits:
       - benefit: Search engines promote fast sites over slow sites.

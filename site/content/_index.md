@@ -5,11 +5,7 @@ image: 'https://res.cloudinary.com/dklongley/image/upload/v1559571362/logo-Growt
 blurb:
   heading: 'https://res.cloudinary.com/dklongley/image/upload/v1559495327/growth.svg'
   subheading: ''
-  text: >-
-    helping companies engage visitors to grow audience for a larger share of the
-    market
-
-    helping companies grow audience for a larger share of the market
+  text: 'Converting more website visitors to get a larger share of your market '
 reasons:
   - benefits:
       - benefit: Search engines promote fast sites over slow sites.

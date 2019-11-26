@@ -13,7 +13,7 @@ export default class HomePreview extends React.Component {
   }}>
   <div class="hero-body">
   <div class="container has-text-centered">
-   <h2 class="is-size-1">{entry.getIn(["data", "blurb", "heading"])}</h2>
+   <img src="{entry.getIn(["data", "blurb", "heading"])}/>
    <h3 class="is-size-2">{entry.getIn(["data", "blurb",  "subheading"])}</h3>
    <h4 class="is-size-3">{entry.getIn(["data", "blurb",  "text"])}</h4>
    </div>

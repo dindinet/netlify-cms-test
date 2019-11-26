@@ -9,7 +9,7 @@ export default class HomePreview extends React.Component {
     let image = getAsset(entry.getIn(["data", "image"]));
    return <div>
      <section id="fp-hero" class="hero is-medium" style={{
-    backgroundImage: image && `url(${image}); background-color:#000;`
+    backgroundImage: image && `url(${image}); backgroundColor:#000;`
   }}>
   <div class="hero-body">
   <div class="container has-text-centered">

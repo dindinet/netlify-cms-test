@@ -5,7 +5,7 @@ image: 'https://res.cloudinary.com/dklongley/image/upload/v1559571362/logo-Growt
 blurb:
   heading: 'https://res.cloudinary.com/dklongley/image/upload/v1559495327/growth.svg'
   subheading: ''
-  text: 'Converting more website visitors to get a larger share of your market '
+  text: 'Convert more website visitors for a larger share of your market '
 reasons:
   - benefits:
       - benefit: Search engines promote fast sites over slow sites.

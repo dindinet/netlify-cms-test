@@ -2,6 +2,78 @@
 title: Business Boost
 subtitle: ''
 image: 'https://res.cloudinary.com/dklongley/image/upload/v1559571362/logo-Growth.svg'
+intro: >-
+  We offer a Rolls Royce service at a VW price so you can spread you wings and
+  fly higher.
+
+
+  (We want you to) Stop fire fighting and focus on increasing your market
+  influence.
+
+
+
+
+  We want to deliver the latest in cloud computing technology to SMEs and
+  startups allowing you to market your offer on level terms with organisations
+  with much deeper pockets.
+
+
+  Our approach to website design and hosting is obsessive
+
+
+  Our broad aims are to
+
+
+  \* Reduce cost of ownership
+
+
+  \* Increase Overall Performance of content delivery
+
+
+  \* Simplify Content Management including full version control and media
+  management
+
+
+  \* Deliver 100% up time and 100% availability (The lawyers want us to say
+  99.99999%)
+
+
+  \* Remove barriers to more advanced functionality
+
+
+  \* Implement just enough graphic design to maximise goal conversion
+
+
+  We think that your budget should not be spent on
+
+
+  \* database backups 
+
+
+  \* managing servers
+
+
+  \* managing security patches
+
+
+  \* employing engineers to rescue your site after an attack or put it back
+  online  after it topples due to a traffic spike.
+
+
+  \* patch your site when vulnerabilities are discovered
+
+
+  We think you should be able to update your content whenever you please with an
+  integrated CMS and media service.
+
+
+  All backup of your site is continuous. Version control allows you to roll back
+  to a previous version of your site in a couple of clicks.
+
+
+  With your site hosted on a modern content delivery network your site will be
+  available, period and you will be free to focus on creating super content to
+  attract more customers.
 blurb:
   heading: 'https://res.cloudinary.com/dklongley/image/upload/v1559495327/growth.svg'
   subheading: ''

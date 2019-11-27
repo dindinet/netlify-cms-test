@@ -18,7 +18,10 @@ export default class HomePreview extends React.Component {
    <h4 class="is-size-3">{entry.getIn(["data", "blurb",  "text"])}</h4>
    </div>
    </div>
- </section> 
+ </section>
+<section>
+     <div id="fp-intro">{ widgetFor("intro") }</div>
+</section>     
  <section id="fp-reasons">
     <div class="container">
   <div class="columns">

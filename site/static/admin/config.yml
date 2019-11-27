@@ -39,6 +39,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: "string"}
           - {label: Subtitle, name: subtitle, widget: "string", required: false}
           - {label: Image, name: image, widget: "image"}
+          - {label: "Intro", name: "intro", widget: "markdown"}
           - {label: "Blurb", name: blurb, widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "image"},
               {label: "SubHeading", name: "subheading", widget: "string", required: false},

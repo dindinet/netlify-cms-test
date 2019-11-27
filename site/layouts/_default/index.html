@@ -15,7 +15,7 @@
    </div>
  </section>
 <section>
-    <div id="fp-intro">{{ .Params.intro }}</div>
+    <div id="fp-intro">{{ .Params.intro | markdownify }}</div>
 </section>
 {{ end }}
 

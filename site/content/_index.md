@@ -1,6 +1,5 @@
 ---
 title: Business Boost
-subtitle: ''
 image: 'https://res.cloudinary.com/dklongley/image/upload/v1559571362/logo-Growth.svg'
 intro: >-
   We offer a Rolls Royce service at a VW price so you can spread you wings and
@@ -9,8 +8,6 @@ intro: >-
 
   (We want you to) Stop fire fighting and focus on increasing your market
   influence.
-
-
 
 
   We want to deliver the latest in cloud computing technology to SMEs and
@@ -122,6 +119,7 @@ possibilities:
       you less time and money to maintain. Most existing websites can be
       converted to run on the cloud. More...
     subheading: evolve and reap the rewards
+published: true
 ---
 <!--
 ### Is this for me?

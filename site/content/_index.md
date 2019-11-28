@@ -121,7 +121,7 @@ possibilities:
     subheading: evolve and reap the rewards
 published: true
 ---
-<!--
+![It's the work that counts](https://res.cloudinary.com/dklongley/image/upload/v1556740483/pcbs.png)
 ### Is this for me?
 
 If you are planning a new website or updating your current website and you have prioritized speed, security, easy content management and reduced costs, then please contact me to talk about your plans.

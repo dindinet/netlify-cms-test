@@ -15,11 +15,13 @@
    </div>
  </section>
 <section>
+    <div class="container">
     <ul id="benefits">
     {{ range .Params.bullets }}
         <li>{{ .bullet }}</li>
     {{end}}
     </ul>
+    </div>
     <div id="fp-intro" class="container">{{ .Params.intro | markdownify }}</div>
 </section>
 {{ end }}

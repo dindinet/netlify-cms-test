@@ -1,13 +1,14 @@
 ---
 title: Business Boost
+subtitle: ''
 image: 'https://res.cloudinary.com/dklongley/image/upload/v1559571362/logo-Growth.svg'
 bullets:
- - bullet: Increase revenues
- - bullet: Improve engagement
- - bullet: Drive sign-ups
- - bullet: Raise conversions
- - bullet: Solicit donations
- - bullet: Deliver content
+  - bullet: Increase revenues
+  - bullet: Improve engagement
+  - bullet: Drive sign-ups
+  - bullet: Raise conversions
+  - bullet: Solicit donations
+  - bullet: Deliver content
 intro: >-
   We offer a Rolls Royce service at a VW price so you can spread you wings and
   fly higher.
@@ -28,43 +29,34 @@ intro: >-
   Our broad aims are to
 
 
-  \* Reduce cost of ownership
+  * Reduce cost of ownership
 
+  * Increase Overall Performance of content delivery
 
-  \* Increase Overall Performance of content delivery
-
-
-  \* Simplify Content Management including full version control and media
+  * Simplify Content Management including full version control and media
   management
 
-
-  \* Deliver 100% up time and 100% availability (The lawyers want us to say
+  * Deliver 100% up time and 100% availability (The lawyers want us to say
   99.99999%)
 
+  * Remove barriers to more advanced functionality
 
-  \* Remove barriers to more advanced functionality
-
-
-  \* Implement just enough graphic design to maximise goal conversion
+  * Implement just enough graphic design to maximise goal conversion
 
 
   We think that your budget should not be spent on
 
 
-  \* database backups 
+  * database backups 
 
+  * managing servers
 
-  \* managing servers
+  * managing security patches
 
-
-  \* managing security patches
-
-
-  \* employing engineers to rescue your site after an attack or put it back
+  * employing engineers to rescue your site after an attack or put it back
   online  after it topples due to a traffic spike.
 
-
-  \* patch your site when vulnerabilities are discovered
+  * patch your site when vulnerabilities are discovered
 
 
   We think you should be able to update your content whenever you please with an
@@ -126,9 +118,8 @@ possibilities:
       you less time and money to maintain. Most existing websites can be
       converted to run on the cloud. More...
     subheading: evolve and reap the rewards
-published: true
 ---
-![It's the work that counts](https://res.cloudinary.com/dklongley/image/upload/v1556740483/pcbs.png)
+<!--
 ### Is this for me?
 
 If you are planning a new website or updating your current website and you have prioritized speed, security, easy content management and reduced costs, then please contact me to talk about your plans.

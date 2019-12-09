@@ -105,3 +105,13 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Subtitle, name: subtitle, widget: "string"}
           - {label: Image, name: image, widget: "image"}
           - {label: Body, name: body, widget: "markdown"}
+      - file: "site/content/approach/index.md"
+        label: "Approach"
+        name: "Approach"
+        fields:
+          - {label: Type, name: type, widget: "hidden", default: "Approach"}
+          - {label: Title, name: title, widget: "hidden", default: "Approach"}
+          - {label: Title, name: title, widget: "string"}
+          - {label: Subtitle, name: subtitle, widget: "string"}
+          - {label: Image, name: image, widget: "image"}
+          - {label: Body, name: body, widget: "markdown"}

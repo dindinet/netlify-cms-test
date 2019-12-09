@@ -1,10 +1,34 @@
 ---
-title: Visitor Centered Approach	
-heading: It's All About Your Visitors
-image: 'https://res.cloudinary.com/dklongley/image/upload/v1556720517/chart.jpg'
 type: approach
+title: Visitor Centered Approach
+subtitle: >-
+  When you understand your customers and your customers understand your offer
+  the magic happens
+image: >-
+  https://res.cloudinary.com/dklongley/image/upload/v1556461067/GUEST_f5d0cfc3-9d02-4ee0-a6c6-ed5dc09971d1.jpg
 ---
-## When you understand your customers and your customers understand your offer, magic happens
+\### Approach
+
+Building a website without considering visitor goals usually leads to disappoint. While grabbing a fashionable website template to shoehorn some content into will never create the wins you desire it is a perfectly reasonable starting point. Getting a website up and running as soon as possible is our recommendation. Once you get website traffic you can begin to analyse behaviour and experiment with changes to improve outcomes and grow. This constant analysis and experimenting will become your everyday because improvement and growth are your goals.
+
+The more traditional approach to website creation starts by getting a website design agency involved.  They will show you recent projects they have done, ask a few questions about how you want the website to look. They might ask you some questions about your target audience. The job of the design agency is to sell design. They will have a bunch of specialists on staff who all need paying.
+
+After a bit of to and fro you will receive and accept a quote and work will start. For a period of time you will not hear anything whilst the designers design and the coders code. All the time eating up your budget. You might have progess meetings along the way. Eventually the day will arrive when the website is ready, signed off and launched. Now you wait.
+
+After the back patting and initial euphoria of launch, when everyone you know and their cat has had a look, the dust settles. Do you get the hoped for stream of enquiries? It's early days. Give it time. You wait... Still nothing.
+
+Where are you now? Your budget is spent. You have a website that looks great but it is not performing. Why are visitors not converting? Where are they dropping out? Where did they come from? Your budget is spent. What would you do? How do you avoid this avoidable scenario?
+
+Your business and it's success are too important for this frivolous design led approach. You need an approach that delivers. A platform and tools that allow you to manage your online marketing. You can then spend your budget on the important things such as words on the screen that connect with and persuade your audience. You can run experiments to compare different versions of a page or page elements. The data from your tests show you what your audience prefers. Some elements of the offer will need to be removed or changed and even new elements added. Your goal is to improve conversion and remove any friction points. By working diligently, engageing with the process of continual improvement and monitoring visiors reaction you will get the wins you deserve. A bonus to all this is you will gain the skills and knowledge that you can use repeatedly to launch new products services or whole new businesses.
+
+In a nutshell, your website should predominantly focus on helping visitors achieve their goals (and therefore yours). To do this just be very clear about your offer and make it very easy for visitors to obtain it. Start with your value proposisition.
+
+Once you have nailed your value proposition and planned what a visitor journey might look like, we start quickly with a minimum viable site setup to monitor visitor behaviour. Over the following weeks, we work with you to facilitate your content experiments to increase conversion. We can continue to support you for as long as you need or train your team to go it alone.
+
+The behind closed doors design and build leading to heraldic website launch is great for rudderless fantasy projects with money to burn but not the way to reach your goals and, ultimately, grow your organisation.
+
+The sole purpose of your web pages should be to move the visitor to a desired goal. Any negative force (friction) that prevents visitors from
+reaching the goal should be removed. Any positive force (lubricant) that propels the visitor towards the goal needs to be added.
 
 I build websites and everyday, not suprisingly, I get asked 'Can you build us a website?'
 
@@ -34,31 +58,8 @@ If we create a website that does not help your visitors reach their goals then y
 I am not a magician I am a human with a specific skill set and experience. I am only successful when I help my clients reach their goals.
 
 Don't worry if you haven't got your goals 100% crystal clear. That is quite normal. Nobody can second guess their audience. By watching and listening to your audience you will succeed and I can show you how.
-<!--
-### Approach
 
-Building a website without understanding visitor needs is bound to fail. And grabbing a fashionable website template to shoehorn some content into will never create the wins you desire.
-
-The more traditional approach to website creation starts by getting a website design agency involved.  They will show you recent projects they have done, ask a few questions about how you want the website to look. They might ask you some questions about your target audience. The job of the design agency is to sell design. They will have a bunch of specialists on staff who all need paying.
-
-After a bit of to and fro you will receive and accept a quote and work will start. For a period of time you will not hear anything whilst the designers design and the coders code. All the time eating up your budget. You might have progess meetings along the way. Eventually the day will arrive when the website is ready, signed off and launched. Now you wait.
-
-After the back patting and initial euphoria of launch, when everyone you know and their cat has had a look, the dust settles. Do you get the hoped for stream of enquiries? It's early days. Give it time. You wait... Still nothing.
-
-Where are you now? Your budget is spent. You have a website it looks great but it is not performing. Why are visitors not converting? Where are they dropping out? Where did they come from? Your budget is spent. What would you do? How do you avoid this avoidable scenario?
-
-Your business and it's success are too important for this frivolous design led approach. You need an approach that delivers. A platform and tools that allow you to manage your online marketing. You can then spend your budget on the important things such as words on the screen that connect with and persuade your audience. You can run experiments to compare different versions of a page or page elements. The data from your tests show you what your audience prefers. Some elements of the offer will need to be removed or changed and even new elements added. Your goal is to improve conversion and remove any friction points. By working diligently, engageing with the process of continual improvement and monitoring visiors reaction you will get the wins you deserve. A bonus to all this is you will gain the skills and knowledge that you can use repeatedly to launch new products services or whole new businesses.
-
-In a nutshell, your website should predominantly focus on helping visitors achieve their goals (and therefore yours). To do this just be very clear about your offer and make it very easy for visitors to obtain it. Start with your value proposisition.
-
-Once you have nailed your value proposition and planned what a visitor journey might look like, we start quickly with a minimum viable site setup to monitor visitor behaviour. Over the following weeks, we work with you to facilitate your content experiments to increase conversion. We can continue to support you for as long as you need or train your team to go it alone.
-
-The behind closed doors design and build leading to heraldic website launch is great for rudderless fantasy projects with money to burn but not the way to reach your goals and, ultimately, grow your organisation.
-
-The sole purpose of your web pages should be to move the visitor to a desired goal. Any negative force (friction) that prevents visitors from
-reaching the goal should be removed. Any positive force (lubricant) that propels the visitor towards the goal needs to be added.
-
-### help your visitors quickly say yes.
+\### help your visitors quickly say yes.
 Push them up the funnel not falling down the funnel
 ### Add Remove or Change (ARC)
 ### Negative forces Positive forces Reduce Anxiety Remove Friction

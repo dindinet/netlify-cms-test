@@ -59,7 +59,7 @@ I am not a magician I am a human with a specific skill set and experience. I am 
 
 Don't worry if you haven't got your goals 100% crystal clear. That is quite normal. Nobody can second guess their audience. By watching and listening to your audience you will succeed and I can show you how.
 
-### help your visitors quickly say yes.
+\### help your visitors quickly say yes.
 Push them up the funnel not falling down the funnel
 ### Add Remove or Change (ARC)
 ### Negative forces Positive forces Reduce Anxiety Remove Friction
@@ -84,4 +84,4 @@ If the site has a lot of requests then the choices are - make visitors wait or a
 In comparison a Cloud Hosted Static Site interprets the request and immediately returns the requested page to the visitor. The Static Site is able to return a usable page to the visitor much faster. How? All the pages are generated in advance and distributed to multiple worldwide data centres close to visitors in all regions of the world. 
 A dynamic site is much more complex due to its reliance on intermediary layers of programming code and database server. These extra layers mean that distribution of the website is highly complex and costs a lot of money.
 The distributed cloud based site can do everything that the modern organization would ever need and, with the addition of microservices, can achieve the same results as an expensive monolithic web application.
-
+-->

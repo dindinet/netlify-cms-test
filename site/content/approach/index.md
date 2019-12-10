@@ -7,9 +7,9 @@ subtitle: >-
 image: >-
   https://res.cloudinary.com/dklongley/image/upload/v1556461067/GUEST_f5d0cfc3-9d02-4ee0-a6c6-ed5dc09971d1.jpg
 ---
-### Approach
+### Growth - The Approach We Recommend
 
-Building a website without first considering visitor goals will disappoint both you and your website visitors (potential.customers).
+Building a website without first considering visitor goals will disappoint both you and your website visitors, your potential customers.
 
 While grabbing a fashionable website template to shoehorn some content into will never create the wins you need for growth, it is a perfectly reasonable starting point.  
 
@@ -25,7 +25,8 @@ More profit allows you to buy more traffic to convert into paying customers.  Wh
 
 Know this. A website is never 'finished', it is a living breathing business growth generator.
 
-The more traditional approach to website creation starts by getting a website design agency involved.  They will show you recent projects they have done, ask a few questions about how you want the website to look. They might ask you some questions about your target audience. The job of the design agency is to sell design. They will have a bunch of specialists on staff who all need paying.
+### We Don't Recommend
+The more traditional approach to website creation which often starts by getting a website design agency involved.  They will show you recent projects they have done, ask a few questions about how you want the website to look. They might ask you some questions about your target audience. The job of the design agency is to sell design. They will have a bunch of specialists on staff who all need paying.
 
 After a bit of to and fro you will receive and accept a quote and work will start. For a period of time you will not hear anything whilst the designers design and the coders code. All the time eating up your budget. You might have progess meetings along the way. Eventually the day will arrive when the website is ready, signed off and launched. Now you wait.
 

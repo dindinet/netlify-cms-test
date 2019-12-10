@@ -9,7 +9,13 @@ image: >-
 ---
 ### Approach
 
-Building a website without considering visitor goals usually leads to disappoint. While grabbing a fashionable website template to shoehorn some content into will never create the wins you desire it is a perfectly reasonable starting point. Getting a website up and running as soon as possible is our recommendation. Once you get website traffic you can begin to analyse behaviour and experiment with changes to improve outcomes and grow. This constant analysis and experimenting will become your everyday because improvement and growth are your goals.
+Building a website without considering visitor goals usually leads to disappointment. While grabbing a fashionable website template to shoehorn some content into will not create the wins you desire it is a perfectly reasonable starting point. Getting a website up and running as soon as possible is our recommendation. Once you get website traffic you can begin to analyse behaviour and experiment with changes to improve conversion(outcomes) and grow. This constant analysis and experimenting will become your everyday because improvement and growth are your goals.
+
+Double your conversion rate will double your revenue. 1 customer gives you 1x revenue 2 customers give you 2x revenue. It doubled. Testing will 
+
+Double revenue more than doubles profit because your fixed costs, unlike variable, costs do not increase. More profit for you.
+
+More profit means you can afford to buy more traffic. Buying traffic will drive more traffic as well as strengthen your position. When your business relies soley on free search engine traffic you are vulnerable to search engine updates which could result in zero traffic in an heartbeat.
 
 The more traditional approach to website creation starts by getting a website design agency involved.  They will show you recent projects they have done, ask a few questions about how you want the website to look. They might ask you some questions about your target audience. The job of the design agency is to sell design. They will have a bunch of specialists on staff who all need paying.
 

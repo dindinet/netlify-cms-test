@@ -9,13 +9,13 @@ image: >-
 ---
 ### Approach
 
-Building a website without considering visitor goals will disappoint both you and your customers.
+Building a website without first considering visitor goals will disappoint both you and your website visitors (potential.customers).
 
-While grabbing a fashionable website template to shoehorn some content into will never create the wins you desire it is a perfectly reasonable starting point.  
+While grabbing a fashionable website template to shoehorn some content into will never create the wins you need for growth, it is a perfectly reasonable starting point.  
 
 Getting a website up and running as soon as possible is our recommendation. Be sure to host your new site on a  technology stack(lnk) that will not grind to a halt as soon as your visitor growth adds load. 
 
-Once you get website traffic you can begin to analyse behaviour and experiment with changes to improve visitor conversion. This constant analysis and experimenting will become your everyday because improvement and growth are your goals. 
+Once you get website traffic you can begin to analyse visitor reactions and behaviour. Knowledge gained informs experimentation to improve visitor conversion. This constant analysis and experimenting will become your everyday because improvement and growth are your goals. 
 
 Doubling your conversion rate will double your revenue. 1 customer gives you 1 x revenue 2 customers give you 2 x revenue. It doubled. 
 

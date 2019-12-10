@@ -13,7 +13,7 @@ Building a website without considering visitor goals will disappoint both you an
 
 While grabbing a fashionable website template to shoehorn some content into will never create the wins you desire it is a perfectly reasonable starting point.  
 
-Getting a website up and running as soon as possible is our recommendation. It is important to host your new site on a  technology stack that will not grind to a halt as soon as your visitor growth adds load. 
+Getting a website up and running as soon as possible is our recommendation. Be sure to host your new site on a  technology stack(lnk) that will not grind to a halt as soon as your visitor growth adds load. 
 
 Once you get website traffic you can begin to analyse behaviour and experiment with changes to improve visitor conversion. This constant analysis and experimenting will become your everyday because improvement and growth are your goals. 
 

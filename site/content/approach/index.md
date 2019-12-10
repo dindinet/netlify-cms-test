@@ -7,17 +7,26 @@ subtitle: >-
 image: >-
   https://res.cloudinary.com/dklongley/image/upload/v1556461067/GUEST_f5d0cfc3-9d02-4ee0-a6c6-ed5dc09971d1.jpg
 ---
-### Approach
+### Growth - The Approach We Recommend
 
-Building a website without considering visitor goals usually leads to disappointment. While grabbing a fashionable website template to shoehorn some content into will not create the wins you desire it is a perfectly reasonable starting point. Getting a website up and running as soon as possible is our recommendation. Once you get website traffic you can begin to analyse behaviour and experiment with changes to improve conversion(outcomes) and grow. This constant analysis and experimenting will become your everyday because improvement and growth are your goals.
+Building a website without first considering visitor goals will disappoint both you and your website visitors, your potential customers.
 
-Double your conversion rate will double your revenue. 1 customer gives you 1x revenue 2 customers give you 2x revenue. It doubled. Testing will 
+While grabbing a fashionable website template to shoehorn some content into will never create the wins you need for growth, it is a perfectly reasonable starting point.  
 
-Double revenue more than doubles profit because your fixed costs, unlike variable, costs do not increase. More profit for you.
+Get a website up and running as soon as possible and be sure you host on a  technology stack(lnk) that will not grind to a halt as soon as your visitor growth adds load. 
 
-More profit means you can afford to buy more traffic. Buying traffic will drive more traffic as well as strengthen your position. When your business relies soley on free search engine traffic you are vulnerable to search engine updates which could result in zero traffic in an heartbeat.
+Once you get website traffic analyse visitor reactions and behaviour. Knowledge gained informs experimentation to improve visitor conversion. This constant analysis and experimenting will become your everyday because improvement and growth are your goals. 
 
-The more traditional approach to website creation starts by getting a website design agency involved.  They will show you recent projects they have done, ask a few questions about how you want the website to look. They might ask you some questions about your target audience. The job of the design agency is to sell design. They will have a bunch of specialists on staff who all need paying.
+Doubling your conversion rate will double your revenue. 1 customer gives you 1 x revenue 2 customers give you 2 x revenue. It doubled. 
+
+Double revenue more than doubles profit because your fixed costs, unlike variable costs, do not increase. More profit for you.
+
+More profit allows you to buy more traffic to convert into paying customers.  When your business relies solely on free search engine traffic you are vulnerable to search engine updates which could result in zero traffic in a heartbeat.
+
+Know this. A website is never 'finished', it is a living breathing business growth generator.
+
+### We Don't Recommend
+The more traditional approach to website creation which often starts by getting a website design agency involved.  They will show you recent projects they have done, ask a few questions about how you want the website to look. They might ask you some questions about your target audience. The job of the design agency is to sell design. They will have a bunch of specialists on staff who all need paying.
 
 After a bit of to and fro you will receive and accept a quote and work will start. For a period of time you will not hear anything whilst the designers design and the coders code. All the time eating up your budget. You might have progess meetings along the way. Eventually the day will arrive when the website is ready, signed off and launched. Now you wait.
 
@@ -27,7 +36,7 @@ Where are you now? Your budget is spent. You have a website that looks great but
 
 Your business and it's success are too important for this frivolous design led approach. You need an approach that delivers. A platform and tools that allow you to manage your online marketing. You can then spend your budget on the important things such as words on the screen that connect with and persuade your audience. You can run experiments to compare different versions of a page or page elements. The data from your tests show you what your audience prefers. Some elements of the offer will need to be removed or changed and even new elements added. Your goal is to improve conversion and remove any friction points. By working diligently, engageing with the process of continual improvement and monitoring visiors reaction you will get the wins you deserve. A bonus to all this is you will gain the skills and knowledge that you can use repeatedly to launch new products services or whole new businesses.
 
-In a nutshell, your website should predominantly focus on helping visitors achieve their goals (and therefore yours). To do this just be very clear about your offer and make it very easy for visitors to obtain it. Start with your value proposisition.
+In a nutshell, your website should predominantly focus on helping visitors achieve their goals (and therefore yours). To do this just be very clear about your offer and make it very easy for visitors to obtain it. Start with your value proposition.
 
 Once you have nailed your value proposition and planned what a visitor journey might look like, we start quickly with a minimum viable site setup to monitor visitor behaviour. Over the following weeks, we work with you to facilitate your content experiments to increase conversion. We can continue to support you for as long as you need or train your team to go it alone.
 
@@ -65,7 +74,7 @@ I am not a magician I am a human with a specific skill set and experience. I am 
 
 Don't worry if you haven't got your goals 100% crystal clear. That is quite normal. Nobody can second guess their audience. By watching and listening to your audience you will succeed and I can show you how.
 
-\### help your visitors quickly say yes.
+### help your visitors quickly say yes.
 Push them up the funnel not falling down the funnel
 ### Add Remove or Change (ARC)
 ### Negative forces Positive forces Reduce Anxiety Remove Friction
@@ -90,4 +99,4 @@ If the site has a lot of requests then the choices are - make visitors wait or a
 In comparison a Cloud Hosted Static Site interprets the request and immediately returns the requested page to the visitor. The Static Site is able to return a usable page to the visitor much faster. How? All the pages are generated in advance and distributed to multiple worldwide data centres close to visitors in all regions of the world. 
 A dynamic site is much more complex due to its reliance on intermediary layers of programming code and database server. These extra layers mean that distribution of the website is highly complex and costs a lot of money.
 The distributed cloud based site can do everything that the modern organization would ever need and, with the addition of microservices, can achieve the same results as an expensive monolithic web application.
--->
+

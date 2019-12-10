@@ -15,7 +15,7 @@ While grabbing a fashionable website template to shoehorn some content into will
 
 Get a website up and running as soon as possible and be sure you host on a  technology stack(lnk) that will not grind to a halt as soon as your visitor growth adds load. 
 
-Once you get website traffic you can begin to analyse visitor reactions and behaviour. Knowledge gained informs experimentation to improve visitor conversion. This constant analysis and experimenting will become your everyday because improvement and growth are your goals. 
+Once you get website traffic analyse visitor reactions and behaviour. Knowledge gained informs experimentation to improve visitor conversion. This constant analysis and experimenting will become your everyday because improvement and growth are your goals. 
 
 Doubling your conversion rate will double your revenue. 1 customer gives you 1 x revenue 2 customers give you 2 x revenue. It doubled. 
 

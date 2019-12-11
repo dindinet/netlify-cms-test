@@ -55,7 +55,7 @@ The behind closed doors design and build leading to heraldic website launch is g
 The sole purpose of your web pages should be to move the visitor to a desired goal. Any negative force (friction) that prevents visitors from
 reaching the goal should be removed. Any positive force (lubricant) that propels the visitor towards the goal needs to be added.
 
->>>>>>> 6b45afb24a6807a63b7e92aaa22914b480491697
+<!--
 I build websites and everyday, not suprisingly, I get asked 'Can you build us a website?'
 My answer is nearly always 'Yes, I can.'. I have nearly 3 decades experience building all kinds of websites for all kinds of people and organisations with a wide range of goals and problems to solve. My experience gives me a very particular view on the way people approach building their website, but more on that later.
 The next question is 'How much will it cost?'
@@ -70,28 +70,19 @@ A typical website journey starts with your customers(your audience) and their go
 If we create a website that does not help your visitors reach their goals then you will not reach yours.
 I am not a magician I am a human with a specific skill set and experience. I am only successful when I help my clients reach their goals.
 Don't worry if you haven't got your goals 100% crystal clear. That is quite normal. Nobody can second guess their audience. By watching and listening to your audience you will succeed and I can show you how.
-<<<<<<< HEAD
 ### help your visitors quickly say yes.Push them up the funnel not falling down the funnel### Add Remove or Change (ARC)### Negative forces Positive forces Reduce Anxiety Remove Friction
 ### design not to impress but leave an impression### Launch fast and pivot based on data### Landing pages purpose is to articulate your value proposition
-=======
-
 ### help your visitors quickly say yes.
 Push them up the funnel not falling down the funnel
 ### Add Remove or Change (ARC)
 ### Negative forces Positive forces Reduce Anxiety Remove Friction
-
 ### design not to impress but leave an impression
 ### Launch fast and pivot based on data
 ### Landing pages purpose is to articulate your value proposition
-
->>>>>>> 6b45afb24a6807a63b7e92aaa22914b480491697
 ### The best website for you customer and you is the one that delivers a winning offer that converts
 ### What Works - Measure every significant thing
 ### Your website and the CMS that drives it need to be very adaptive
 ### Save Time and MoneyThere are many reasons you might have for getting a new website but all too often the reasons driving the decision making are the wrong reasons. Designers want to sell design and coders want to sell exciting widgets. In most cases no thought is given to the user of the web site and what they need or want. After all if you make your users happy they want more of what you are promoting. One of the biggest turn offs for web site visitors is slow loading pages. Slow loading pages are often the result of too much fancy design and whizz bang widgets."What is wrong with our existing dynamic CMS driven website?", you ask. Let's compare what happens when a visitor requests a page.### End Slow Page LoadsCMS systems like WordPress have to do more work to serve a page. When a web page is requested, the server must determine the request, run programming code to generate a database call, make a call to the database, create an HTML page (by inserting the data returned from the database into a template) and, finally, serve the requested page to the visitor. With all these steps required just to get the page to the visitor you can start to see that there could be room for improvement. Cutting the number of steps would be a start.If the site has a lot of requests then the choices are - make visitors wait or add more resources to allow your website handle the requests more quickly. adding more resources costs more money. Once the extra resources are in place you must cotinue to pay for them even though traffic does not always require their use. Additionally, unless the dynamic CMS has been distributed to data centers, all page requests are handled by the one unique version of the website. This one point of weakness design can be exploited in a number of ways by bad actors. Mitigating attacks requires yet more resources and costs. ### Fast Page Loads as StandardIn comparison a Cloud Hosted Static Site interprets the request and immediately returns the requested page to the visitor. The Static Site is able to return a usable page to the visitor much faster. How? All the pages are generated in advance and distributed to multiple worldwide data centres close to visitors in all regions of the world. A dynamic site is much more complex due to its reliance on intermediary layers of programming code and database server. These extra layers mean that distribution of the website is highly complex and costs a lot of money.The distributed cloud based site can do everything that the modern organization would ever need and, with the addition of microservices, can achieve the same results as an expensive monolithic web application.
-
-<<<<<<< HEAD
-=======
 ### Save Time and Money
 There are many reasons you might have for getting a new website but all too often the reasons driving the decision making are the wrong reasons. Designers want to sell design and coders want to sell exciting widgets. In most cases no thought is given to the user of the web site and what they need or want. After all if you make your users happy they want more of what you are promoting. One of the biggest turn offs for web site visitors is slow loading pages. Slow loading pages are often the result of too much fancy design and whizz bang widgets.
 "What is wrong with our existing dynamic CMS driven website?", you ask. Let's compare what happens when a visitor requests a page.
@@ -102,5 +93,4 @@ If the site has a lot of requests then the choices are - make visitors wait or a
 In comparison a Cloud Hosted Static Site interprets the request and immediately returns the requested page to the visitor. The Static Site is able to return a usable page to the visitor much faster. How? All the pages are generated in advance and distributed to multiple worldwide data centres close to visitors in all regions of the world. 
 A dynamic site is much more complex due to its reliance on intermediary layers of programming code and database server. These extra layers mean that distribution of the website is highly complex and costs a lot of money.
 The distributed cloud based site can do everything that the modern organization would ever need and, with the addition of microservices, can achieve the same results as an expensive monolithic web application.
-
->>>>>>> 6b45afb24a6807a63b7e92aaa22914b480491697
+-->

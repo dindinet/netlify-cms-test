@@ -8,30 +8,6 @@ image: >-
   https://res.cloudinary.com/dklongley/image/upload/v1556461067/GUEST_f5d0cfc3-9d02-4ee0-a6c6-ed5dc09971d1.jpg
 ---
 ### Growth - The Approach We Recommend
-<<<<<<< HEAD
-Building a website without first considering visitor goals will disappoint both you and your website visitors, your potential customers.
-While grabbing a fashionable website template to shoehorn some content into will never create the wins you need for growth, it is a perfectly reasonable starting point.  
-Get a website up and running as soon as possible and be sure you host on a  technology stack(lnk) that will not grind to a halt as soon as your visitor growth adds load. 
-Once you get website traffic analyse visitor reactions and behaviour. Knowledge gained informs experimentation to improve visitor conversion. This constant analysis and experimenting will become your everyday because improvement and growth are your goals. 
-Doubling your conversion rate will double your revenue. 1 customer gives you 1 x revenue 2 customers give you 2 x revenue. It doubled. 
-Double revenue more than doubles profit because your fixed costs, unlike variable costs, do not increase. More profit for you.
-More profit allows you to buy more traffic to convert into paying customers.  When your business relies solely on free search engine traffic you are vulnerable to search engine updates which could result in zero traffic in a heartbeat.
-Know this. A website is never 'finished', it is a living breathing business growth generator.
-### We Don't RecommendThe more traditional approach to website creation which often starts by getting a website design agency involved.  They will show you recent projects they have done, ask a few questions about how you want the website to look. They might ask you some questions about your target audience. The job of the design agency is to sell design. They will have a bunch of specialists on staff who all need paying.
-After a bit of to and fro you will receive and accept a quote and work will start. For a period of time you will not hear anything whilst the designers design and the coders code. All the time eating up your budget. You might have progess meetings along the way. Eventually the day will arrive when the website is ready, signed off and launched. Now you wait.
-After the back patting and initial euphoria of launch, when everyone you know and their cat has had a look, the dust settles. Do you get the hoped for stream of enquiries? It's early days. Give it time. You wait... Still nothing.
-Where are you now? Your budget is spent. You have a website that looks great but it is not performing. Why are visitors not converting? Where are they dropping out? Where did they come from? Your budget is spent. What would you do? How do you avoid this avoidable scenario?
-Your business and it's success are too important for this frivolous design led approach. You need an approach that delivers. 
-A platform and tools that allow you to manage your online marketing. 
-You can then spend your budget on the important things such as words on the screen that connect with and persuade your audience. 
-You can run experiments to compare different versions of a page or page elements. The data from your tests show you what your audience prefers. Some elements of the offer will need to be removed or changed and even new elements added. 
-Your goal is to improve conversion and remove any friction points. By working diligently, engaging with the process of continual improvement and monitoring visitors reaction you will get the wins you deserve. A bonus to all this is you gain the skills and knowledge that you will use repeatedly to launch new products, services or whole new businesses.
-In a nutshell, your website should focus on helping visitors achieve their goals with a very clear offer which visitors can quickly understand.
-Start with your value proposition. Once you have nailed your value proposition and planned a visitor journey, you have enough to launch a minimum viable website and begin to monitor visitor behaviour.
-Over the following weeks, we work with you to facilitate your content experiments to increase conversion. We can continue to support you for as long as you need or train your team to go it alone.
-The behind closed doors design and build leading to heraldic website launch is great for rudderless fantasy projects with money to burn but not the way to reach your goals and, ultimately, grow your organisation.
-The sole purpose of your web pages should be to move the visitor to a desired goal. Any negative force (friction) that prevents visitors fromreaching the goal should be removed. Any positive force (lubricant) that propels the visitor towards the goal needs to be added.
-=======
 
 Building a website without first considering visitor goals will disappoint both you and your website visitors, your potential customers.
 

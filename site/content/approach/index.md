@@ -34,11 +34,21 @@ After the back patting and initial euphoria of launch, when everyone you know an
 
 Where are you now? Your budget is spent. You have a website that looks great but it is not performing. Why are visitors not converting? Where are they dropping out? Where did they come from? Your budget is spent. What would you do? How do you avoid this avoidable scenario?
 
-Your business and it's success are too important for this frivolous design led approach. You need an approach that delivers. A platform and tools that allow you to manage your online marketing. You can then spend your budget on the important things such as words on the screen that connect with and persuade your audience. You can run experiments to compare different versions of a page or page elements. The data from your tests show you what your audience prefers. Some elements of the offer will need to be removed or changed and even new elements added. Your goal is to improve conversion and remove any friction points. By working diligently, engageing with the process of continual improvement and monitoring visiors reaction you will get the wins you deserve. A bonus to all this is you will gain the skills and knowledge that you can use repeatedly to launch new products services or whole new businesses.
+Your business and it's success are too important for this frivolous design led approach. You need an approach that delivers. 
 
-In a nutshell, your website should predominantly focus on helping visitors achieve their goals (and therefore yours). To do this just be very clear about your offer and make it very easy for visitors to obtain it. Start with your value proposition.
+A platform and tools that allow you to manage your online marketing. 
 
-Once you have nailed your value proposition and planned what a visitor journey might look like, we start quickly with a minimum viable site setup to monitor visitor behaviour. Over the following weeks, we work with you to facilitate your content experiments to increase conversion. We can continue to support you for as long as you need or train your team to go it alone.
+You can then spend your budget on the important things such as words on the screen that connect with and persuade your audience. 
+
+You can run experiments to compare different versions of a page or page elements. The data from your tests show you what your audience prefers. Some elements of the offer will need to be removed or changed and even new elements added. 
+
+Your goal is to improve conversion and remove any friction points. By working diligently, engaging with the process of continual improvement and monitoring visitors reaction you will get the wins you deserve. A bonus to all this is you gain the skills and knowledge that you will use repeatedly to launch new products, services or whole new businesses.
+
+In a nutshell, your website should focus on helping visitors achieve their goals with a very clear offer which visitors can quickly understand.
+
+Start with your value proposition. Once you have nailed your value proposition and planned a visitor journey, you have enough to launch a minimum viable website and begin to monitor visitor behaviour.
+
+Over the following weeks, we work with you to facilitate your content experiments to increase conversion. We can continue to support you for as long as you need or train your team to go it alone.
 
 The behind closed doors design and build leading to heraldic website launch is great for rudderless fantasy projects with money to burn but not the way to reach your goals and, ultimately, grow your organisation.
 

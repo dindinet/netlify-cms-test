@@ -1,5 +1,12 @@
 {{ define "head" }}
-    
+    <meta name="title" property="og:title" content="{{ .Params.title }}" />
+{{ if (isset .Params "socialimage") }}
+<meta name="image" property="og:image" content={{ .Params.socialimage }} />
+{{ else }}
+<meta name="image" property="og:image" content={{ .Params.image }} />
+{{ end }}
+<meta name="url" property="og:url" content="{{ .Permalink }}" />
+<meta name="description" property="og:description" content="{{ .Params.description }}" />
 {{ end }}
 
 {{ define "header" }}

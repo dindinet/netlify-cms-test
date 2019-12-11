@@ -1,41 +1,92 @@
 ---
-title: Homepage
-subtitle: The page where I live
-vpHeading: Too many websites prevent growth
-vpSubHeading: Don't let your website be one of them?
-newvslueprop: >-
- Building and maintianing a reputation require a huge investment of resources and human endeavor. Months or years of work can be destroyed in an hour by something as trivial as a website being unavailable on the busiest day of the year. Lets work to prevent this kind of avoidable disaster
-valueprop: >-
-  You and other businesses like yours invest huge amounts of time and effort into making sure they are profitable as well as building and maintaining a reputation. Sometimes it feels like technology absorbs more time and money and doesn't deliver the promised gains. We get that. Our sole focus is to source and implement for our clients the best value and return on investment when it comes to websites and digital marketing. We are skilled in building and implementing marketing platforms from the best tools and services available. We will always champion an approach that does not lock you into a particular technology. The uptake of new technology should spped up growth and cause as little disruption to your organisation as possible.
-image: 'https://res.cloudinary.com/dklongley/image/upload/o_100/v1556539856/chart.jpg'
+title: Business Boost
+subtitle: ''
+image: 'https://res.cloudinary.com/dklongley/image/upload/v1559571362/logo-Growth.svg'
+bullets:
+  - bullet: Increase revenues
+  - bullet: Improve engagement
+  - bullet: Drive sign-ups
+  - bullet: Raise conversions
+  - bullet: Solicit donations
+  - bullet: Deliver content
+intro: >-
+  We offer a Rolls Royce service at a VW price so you can spread you wings and
+  fly higher.
+
+
+  (We want you to) Stop fire fighting and focus on increasing your market
+  influence.
+
+
+  We want to deliver the latest in cloud computing technology to SMEs and
+  startups allowing you to market your offer on level terms with organisations
+  with much deeper pockets.
+
+
+  Our approach to website design and hosting is obsessive
+
+
+  Our broad aims are to
+
+
+  * Reduce cost of ownership
+
+  * Increase Overall Performance of content delivery
+
+  * Simplify Content Management including full version control and media
+  management
+
+  * Deliver 100% up time and 100% availability (The lawyers want us to say
+  99.99999%)
+
+  * Remove barriers to more advanced functionality
+
+  * Implement just enough graphic design to maximise goal conversion
+
+
+  We think that your budget should not be spent on
+
+
+  * database backups 
+
+  * managing servers
+
+  * managing security patches
+
+  * employing engineers to rescue your site after an attack or put it back
+  online  after it topples due to a traffic spike.
+
+  * patch your site when vulnerabilities are discovered
+
+
+  We think you should be able to update your content whenever you please with an
+  integrated CMS and media service.
+
+
+  All backup of your site is continuous. Version control allows you to roll back
+  to a previous version of your site in a couple of clicks.
+
+
+  With your site hosted on a modern content delivery network your site will be
+  available, period and you will be free to focus on creating super content to
+  attract more customers.
 blurb:
-  heading: https://res.cloudinary.com/dklongley/image/upload/v1559495327/growth.svg
-  y-subheading: 'Lean Mean Conversion Machines'
-  y-text: 'Get Yours Today'
-  subheading: 'WEBSITES FOR GROWTH'
-  text: 'helping companies engage visitors to<br/> grow audience for a larger share of the market'
-blurb-2:
-  heading: 'Websites for organisations who want to increase visitor numbers, conversions, revenues and/or profits.'
-  oldheading: 'Websites for organisations who want to increase visitor numbers, conversions and ultimately increase revenues and/or profits.'
-  subheading: 'When you understand your customers and your customers understand your offer, magic happens.'
-  text: 'Ensuring you spend your budget wisely.'
-blurb-1:
-  heading: 'Increase Engagement, Revenue and Profit'
-  subheading: websites for people who value time and money
-  text: ' '
+  heading: 'https://res.cloudinary.com/dklongley/image/upload/v1559495327/growth.svg'
+  subheading: ''
+  text: 'Convert more website visitors for a larger share of your market '
 reasons:
   - benefits:
       - benefit: Search engines promote fast sites over slow sites.
       - benefit: >-
-          Visitors love fast sites. When websites are slow to load, they cost the owner dear. Impatient
-          visitors will bounce to competitor sites. 
+          Visitors love fast sites. When websites are slow to load, they cost
+          the owner dear. Impatient visitors will bounce to competitor sites. 
     heading: Fast
     subheading: time is money
   - benefits:
       - benefit: >-
-          JAMstack websites are secure from top to bottom so you avoid the expense
-          of fixing your reputation and loss of business after a security
-          breech.
+          JAMstack websites are secure from top to bottom so you avoid the
+          expense of fixing your reputation and loss of business after a
+          security breech.
       - benefit: No security updates required
     heading: Secure
     subheading: reputation is all
@@ -67,33 +118,6 @@ possibilities:
       you less time and money to maintain. Most existing websites can be
       converted to run on the cloud. More...
     subheading: evolve and reap the rewards
-features:
-  - feature: Content Management
-    subheading: Essential 24/7 access to your content
-    description: >-
-      Choose between the included open source version controlled multi user CMS, your existing CMS or a headless CMS service. As long as the site build process can import your content you can use your preferred CMS. 
-    image:
-  - feature: Media Management
-    subheading: Powerful Tools for Content Creators
-    description: >-
-       Your media assets all in one place for your team. Manipulate your images and videos dynamically to fit any graphics design. Apply effects, resizing, cropping, face detection, watermarks and tons of processing capabilities.
-    image:
-  - feature: SEO Management
-    subheading: Getting Found and Encouraging Clickthrough
-    description: >-
-      Manage all aspects of 'On Page' Search Engine Optimisation via your CMS. 
-    image:
-  - feature: Growth Management
-    subheading: Use real data to reduce friction
-    description: >-
-      Grow your business by optimising your website to convert more visitors. Convert more visitors to buyers. Convert more visitors to email list subscribers. Convert more visitors to share your content. Use split testing to try new ideas and analytics to report on your success.
-    image:
-  - feature: Multi Cloud Hosting
-    subheading: Secure, Lightening Fast and Distributed
-    description: >-
-      Hosting so robust that you will never worry about the availibility of your site.
-      Technical SEO headaches solved. All connections are encrypted and requests served incredibly fast.    
-    image:
 ---
 <!--
 ### Is this for me?

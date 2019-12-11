@@ -97,7 +97,24 @@ collections: # A list of collections the CMS should be able to edit
         name: "why-cloud-hosted"
         fields:
           - {label: Type, name: type, widget: "hidden", default: "why-cloud-hosted"}
-          - {label: Title, name: title, widget: "hidden", default: "why-cloud-hosted"}
+          - {label: Title, name: title, widget: "string"}
+          - {label: Subtitle, name: subtitle, widget: "string"}
+          - {label: Image, name: image, widget: "image"}
+          - {label: Body, name: body, widget: "markdown"}
+      - file: "site/content/approach/index.md"
+        label: "Approach"
+        name: "approach"
+        fields:
+          - {label: Type, name: type, widget: "hidden", default: "approach"}
+          - {label: Title, name: title, widget: "string"}
+          - {label: Subtitle, name: subtitle, widget: "string"}
+          - {label: Image, name: image, widget: "image"}
+          - {label: Body, name: body, widget: "markdown"}
+      - file: "site/content/webdesign/index.md"
+        label: "Web Design"
+        name: "webdesign"
+        fields:
+          - {label: Type, name: type, widget: "hidden", default: "webdesign"}
           - {label: Title, name: title, widget: "string"}
           - {label: Subtitle, name: subtitle, widget: "string"}
           - {label: Image, name: image, widget: "image"}

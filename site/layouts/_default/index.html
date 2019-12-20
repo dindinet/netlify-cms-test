@@ -26,6 +26,13 @@
     <h3 class="is-hero-subhead has-text-centered">{{ .Params.blurb.subheading }}</h3>    
     <h4 class="is-size-3 has-text-centered">{{ .Params.blurb.text }}</h4>
    </div>
+   <div class="container">
+    <ul id="benefits">
+    {{ range .Params.bullets }}
+        <li>{{ .bullet }}</li>
+    {{end}}
+    </ul>
+    </div>
    </div>
  </section>
  <div class="has-text-centered"><h2>What do you need help with?</h2></div>

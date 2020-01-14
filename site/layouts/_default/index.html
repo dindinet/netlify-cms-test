@@ -24,15 +24,21 @@
     <!-- <h2 class="is-hero-head">{{ .Params.blurb.heading }}</h2> -->
     <img src="{{ .Params.blurb.heading }}" />
     <h3 class="is-hero-subhead has-text-centered">{{ .Params.blurb.subheading }}</h3>    
-    <h4 class="is-size-3 has-text-centered">{{ .Params.blurb.text }}</h4>
+    <!--<h4 class="is-size-3 has-text-centered">{{ .Params.blurb.text }}</h4> -->
+    <ul id="benefits">
+      {{ range .Params.bullets1 }}
+          <li>{{ .bullet }}</li>
+      {{end}}
+      </ul>
    </div>
-   <div class="container has-text-centered">
+   <!-- <div class="container has-text-centered">
     <ul id="benefits">
     {{ range .Params.bullets1 }}
         <li>{{ .bullet }}</li>
     {{end}}
     </ul>
-    </div>
+    </div> -->
+    <h4 class="is-size-3 has-text-centered">{{ .Params.blurb.text }}</h4>
    </div>
  </section>
  

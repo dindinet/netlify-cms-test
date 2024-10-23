@@ -12,6 +12,10 @@ import svgmin from "gulp-svgmin";
 import inject from "gulp-inject";
 import cssnano from "cssnano";
 
+global.primordials = {
+  '__proto__': {}
+};
+
 const browserSync = BrowserSync.create();
 const defaultArgs = ["-d", "../dist", "-s", "site"];
 

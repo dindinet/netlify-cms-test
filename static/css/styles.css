@@ -79,6 +79,8 @@ section {
 
 .is-feature-head{font-size:4vw!important; font-weight: bold; padding: 0}
 .is-feature-subhead{font-size:2vw!important; font-weight: bold;}
+
+ul#benefits{list-style: none;}
 li, #fp-reasons li {
   xlist-style-type: none;
   position: relative;

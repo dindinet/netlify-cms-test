@@ -45,6 +45,7 @@ intro: >-
   * Implement just enough graphic design to maximise goal conversion
 
 
+
   We think that your budget should not be spent on
 
 
@@ -58,6 +59,7 @@ intro: >-
   online  after it topples due to a traffic spike.
 
   * patch your site when vulnerabilities are discovered
+
 
 
   We think you should be able to update your content whenever you please with an

@@ -1,2 +1,4 @@
+baseurl = "/"
 languageCode = "en-us"
-title = "My New Netlify Victor Hugo Site"
+title = "Homepage"
+

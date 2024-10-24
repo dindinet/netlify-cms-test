@@ -2,7 +2,7 @@ sites:
 - site: propertycostablancaspain.com
   url: https://www.propertycostablancaspain.com
   image: https://res.cloudinary.com/dklongley/image/upload/w_472/v1556740483/pcbs.jpg
-  blurb: propertycostablancaspain.com is one of a number of real estate portals I have developed and implemented for a group of estate agents in Spain. The property listings are stored in a cloud hosted NoSQL database and are managed using a bespoke CMS (Content Management System). The website is built using HUGO an extremely fast static site builder and hosted in the cloud distributed to multiple data centres. Ongoing monthly costs for hosting are a fraction of what they paid for their previous system.
+  blurb: propertycostablancaspain.com is one of a number of real estate portals I have developed and implemented for a group of estate agents in Spain. The property listings are stored in a cloud hosted NoSQL database and are managed using a bespoke CMS (Content Management System). The website is built using HUGO an extremely fast static site builder and hosted in the cloud distributed to multiple data centres. They no longer have hosting costs for their websites.
 - site: shamayoga.org.uk
   url:  https://www.shamayoga.org.uk
   image: https://res.cloudinary.com/dklongley/image/upload/w_472/v1556740481/shama.jpg
@@ -10,4 +10,4 @@ sites:
 - site: maxgoldhouse.com
   url: https://www.maxgoldhouse.com
   image: https://res.cloudinary.com/dklongley/image/upload/w_472/v1729755192/MGH.jpg
-  blurb: maxgoldhouse.com is one of a number of real estate portals I have developed and implemented for a group of estate agents in Spain. The property listings are stored in a cloud hosted NoSQL database and are managed using a bespoke CMS (Content Management System). The 4 (EN,DE,FR,NL)websites are built using HUGO an extremely fast static site builder and hosted in the cloud distributed to multiple data centres. Ongoing monthly costs for hosting are a fraction of what they paid for their previous system.
+  blurb: maxgoldhouse.com is one of a number of real estate portals I have developed and implemented for a group of estate agents in Spain. The property listings are stored in a cloud hosted NoSQL database and are managed using a bespoke CMS (Content Management System). The 4 (EN,DE,FR,NL)websites are built using HUGO an extremely fast static site builder and hosted in the cloud distributed to multiple data centres. Maxgoldhouse no longer pay to host their websites.

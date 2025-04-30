@@ -1,7 +1,7 @@
 [context.production]
-  command = "hugo"
-  publish = "/site/public"
-  environment  = {HUGO_VERSION = "0.46"}
+  command = "cd site && hugo"
+  publish = "public"
+ 
 [context.old.production]
   command = "yarn build"
   publish = "dist"

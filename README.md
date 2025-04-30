@@ -45,4 +45,4 @@ All SVG icons stored in `site/static/img/icons` are automatically optimized with
 </svg>
 ```
 
-it's yarn build
+it's yarn build on Netlify
